@@ -1,0 +1,4176 @@
+{
+  "game": "EA SPORTS FC 25",
+  "last_updated": "2025-08-31",
+  "countries": [
+    {
+      "name": "Switzerland",
+      "code": "SWT",
+      "leagues": [
+        {
+          "name": "Credit Suisse Super League",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 2,
+              "name": "FC St. Gallen",
+              "played": 4,
+              "points": 9
+            },
+            {
+              "rank": 3,
+              "name": "FC Basel 1893",
+              "played": 5,
+              "points": 9
+            },
+            {
+              "rank": 4,
+              "name": "FC Sion",
+              "played": 4,
+              "points": 7
+            },
+            {
+              "rank": 5,
+              "name": "FC Luzern",
+              "played": 4,
+              "points": 7
+            },
+            {
+              "rank": 6,
+              "name": "FC Zürich",
+              "played": 5,
+              "points": 7
+            },
+            {
+              "rank": 7,
+              "name": "BSC Young Boys",
+              "played": 4,
+              "points": 5
+            },
+            {
+              "rank": 8,
+              "name": "FC Lausanne-Sport",
+              "played": 3,
+              "points": 3
+            },
+            {
+              "rank": 9,
+              "name": "Grasshopper Club Zurich",
+              "played": 5,
+              "points": 3
+            },
+            {
+              "rank": 10,
+              "name": "FC Lugano",
+              "played": 3,
+              "points": 3
+            },
+            {
+              "rank": 11,
+              "name": "FC Winterthur",
+              "played": 5,
+              "points": 2
+            },
+            {
+              "rank": 12,
+              "name": "Servette FC",
+              "played": 3,
+              "points": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rest Of The World",
+      "code": "ROT",
+      "leagues": [
+        {
+          "name": "Rest Of The World",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 0,
+              "name": "AEK Athens",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Al Ain FC",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "APOEL FC",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Atlético Nacional",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Dinamo Kiev",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Dinamo Zagreb",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Ferencvárosi TC",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Hajduk Split",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "HJK Helsinki ",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Kaizer Chiefs",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Mamelodi Sundowns",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Orlando Pirates",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Panathinaikos",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "PAOK",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Shakhtar Donetsk",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Slavia Praha",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Sparta Praha",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Viktoria Plzeň",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Chabab Mohammedia",
+              "played": 0,
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rest Of The World B3",
+      "code": "ROT",
+      "leagues": [
+        {
+          "name": "Rest Of The World B3",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 0,
+              "name": "Classic XI",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Zlatan FC",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Soccer Aid",
+              "played": 0,
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "International",
+      "code": "ITNTNL",
+      "leagues": [
+        {
+          "name": "ITNTNL ",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 0,
+              "name": "Argentina",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Croatia",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Czechia",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Denmark",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "England",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Finland",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "France",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Germany",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Ghana",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Hungary",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Irelad",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Iceland",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Italy",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Mexico",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Moracco",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Netherland",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Northern Ireland",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Norway",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Poland",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Portugal",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Qatar",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Romania",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Scotland",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Spain",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Sweden",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Ukraine",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "USA",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 0,
+              "name": "Wales",
+              "played": 0,
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Your Choice",
+      "code": "YC",
+      "leagues": [
+        {
+          "name": "Your Choice",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Your Choice",
+              "played": 38,
+              "points": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Republic of Ireland",
+      "code": "ROI",
+      "leagues": [
+        {
+          "name": "SSE AIRTRICITY PD",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Shamrock Rovers F.C.",
+              "played": 27,
+              "points": 53
+            },
+            {
+              "rank": 2,
+              "name": "Bohemian F.C.",
+              "played": 29,
+              "points": 47
+            },
+            {
+              "rank": 3,
+              "name": "Derry City F.C.",
+              "played": 29,
+              "points": 46
+            },
+            {
+              "rank": 4,
+              "name": "St Patrick's Athletic F.C.",
+              "played": 29,
+              "points": 42
+            },
+            {
+              "rank": 5,
+              "name": "Drogheda United F.C.",
+              "played": 28,
+              "points": 42
+            },
+            {
+              "rank": 6,
+              "name": "Shelbourne F.C.",
+              "played": 27,
+              "points": 39
+            },
+            {
+              "rank": 7,
+              "name": "Waterford FC",
+              "played": 29,
+              "points": 34
+            },
+            {
+              "rank": 8,
+              "name": "Galway United F.C.",
+              "played": 28,
+              "points": 30
+            },
+            {
+              "rank": 9,
+              "name": "Sligo Rovers F.C.",
+              "played": 29,
+              "points": 30
+            },
+            {
+              "rank": 10,
+              "name": "Cork City FC",
+              "played": 29,
+              "points": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turkey",
+      "code": "TUR",
+      "leagues": [
+        {
+          "name": "Süper Lig",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Galatasaray S.K.",
+              "played": 4,
+              "points": 12
+            },
+            {
+              "rank": 2,
+              "name": "Trabzonspor",
+              "played": 3,
+              "points": 9
+            },
+            {
+              "rank": 3,
+              "name": "Göztepe S.K.",
+              "played": 4,
+              "points": 8
+            },
+            {
+              "rank": 4,
+              "name": "Konyaspor",
+              "played": 3,
+              "points": 7
+            },
+            {
+              "rank": 5,
+              "name": "Samsunspor",
+              "played": 2,
+              "points": 6
+            },
+            {
+              "rank": 6,
+              "name": "Antalyaspor",
+              "played": 4,
+              "points": 6
+            },
+            {
+              "rank": 7,
+              "name": "Gaziantep F.K.",
+              "played": 4,
+              "points": 6
+            },
+            {
+              "rank": 8,
+              "name": "Fenerbahçe SK",
+              "played": 2,
+              "points": 4
+            },
+            {
+              "rank": 9,
+              "name": "Beşiktaş J.K.",
+              "played": 1,
+              "points": 3
+            },
+            {
+              "rank": 10,
+              "name": "Eyüpspor",
+              "played": 3,
+              "points": 3
+            },
+            {
+              "rank": 12,
+              "name": "Kayserispor",
+              "played": 3,
+              "points": 2
+            },
+            {
+              "rank": 13,
+              "name": "İstanbul Başakşehir F.K.",
+              "played": 1,
+              "points": 1
+            },
+            {
+              "rank": 14,
+              "name": "Alanyaspor",
+              "played": 2,
+              "points": 1
+            },
+            {
+              "rank": 15,
+              "name": "Kocaelispor",
+              "played": 4,
+              "points": 1
+            },
+            {
+              "rank": 16,
+              "name": "Çaykur Rizespor",
+              "played": 3,
+              "points": 1
+            },
+            {
+              "rank": 17,
+              "name": "Kasımpaşa S.K.",
+              "played": 3,
+              "points": 0
+            },
+            {
+              "rank": 18,
+              "name": "Gençlerbirliği S.K.",
+              "played": 3,
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "England",
+      "code": "ENG",
+      "leagues": [
+        {
+          "name": "Premier League",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Manchester City",
+              "played": 4,
+              "points": 12
+            },
+            {
+              "rank": 2,
+              "name": "Liverpool",
+              "played": 4,
+              "points": 10
+            },
+            {
+              "rank": 3,
+              "name": "Arsenal",
+              "played": 4,
+              "points": 10
+            },
+            {
+              "rank": 4,
+              "name": "Tottenham Hotspur",
+              "played": 4,
+              "points": 9
+            },
+            {
+              "rank": 5,
+              "name": "Chelsea",
+              "played": 4,
+              "points": 7
+            },
+            {
+              "rank": 6,
+              "name": "Aston Villa",
+              "played": 4,
+              "points": 7
+            },
+            {
+              "rank": 7,
+              "name": "Newcastle United",
+              "played": 4,
+              "points": 6
+            },
+            {
+              "rank": 8,
+              "name": "Manchester United",
+              "played": 4,
+              "points": 6
+            },
+            {
+              "rank": 9,
+              "name": "Brighton & Hove Albion",
+              "played": 4,
+              "points": 6
+            },
+            {
+              "rank": 10,
+              "name": "West Ham United",
+              "played": 4,
+              "points": 5
+            },
+            {
+              "rank": 11,
+              "name": "Wolverhampton Wanderers",
+              "played": 4,
+              "points": 4
+            },
+            {
+              "rank": 12,
+              "name": "Brentford",
+              "played": 4,
+              "points": 4
+            },
+            {
+              "rank": 13,
+              "name": "Crystal Palace",
+              "played": 4,
+              "points": 4
+            },
+            {
+              "rank": 14,
+              "name": "Fulham",
+              "played": 4,
+              "points": 3
+            },
+            {
+              "rank": 15,
+              "name": "Leicester City",
+              "played": 4,
+              "points": 3
+            },
+            {
+              "rank": 16,
+              "name": "Southampton",
+              "played": 4,
+              "points": 3
+            },
+            {
+              "rank": 17,
+              "name": "Ipswich Town",
+              "played": 4,
+              "points": 2
+            },
+            {
+              "rank": 18,
+              "name": "Everton",
+              "played": 4,
+              "points": 1
+            },
+            {
+              "rank": 19,
+              "name": "Nottingham Forest",
+              "played": 4,
+              "points": 1
+            },
+            {
+              "rank": 20,
+              "name": "Bournemouth",
+              "played": 4,
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "EFL Championship",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Leeds United",
+              "played": 23,
+              "points": 58
+            },
+            {
+              "rank": 2,
+              "name": "Sheffield United",
+              "played": 25,
+              "points": 52
+            },
+            {
+              "rank": 3,
+              "name": "Burnley",
+              "played": 23,
+              "points": 51
+            },
+            {
+              "rank": 4,
+              "name": "Bristol City",
+              "played": 24,
+              "points": 46
+            },
+            {
+              "rank": 5,
+              "name": "Coventry City",
+              "played": 24,
+              "points": 45
+            },
+            {
+              "rank": 6,
+              "name": "Sunderland",
+              "played": 24,
+              "points": 44
+            },
+            {
+              "rank": 7,
+              "name": "West Bromwich Albion",
+              "played": 24,
+              "points": 43
+            },
+            {
+              "rank": 8,
+              "name": "Middlesbrough",
+              "played": 24,
+              "points": 42
+            },
+            {
+              "rank": 9,
+              "name": "Hull City",
+              "played": 24,
+              "points": 41
+            },
+            {
+              "rank": 10,
+              "name": "Norwich City",
+              "played": 24,
+              "points": 40
+            },
+            {
+              "rank": 11,
+              "name": "Ipswich Town",
+              "played": 24,
+              "points": 39
+            },
+            {
+              "rank": 12,
+              "name": "Preston North End",
+              "played": 24,
+              "points": 38
+            },
+            {
+              "rank": 13,
+              "name": "Cardiff City",
+              "played": 24,
+              "points": 37
+            },
+            {
+              "rank": 14,
+              "name": "Stoke City",
+              "played": 24,
+              "points": 36
+            },
+            {
+              "rank": 15,
+              "name": "Swansea City",
+              "played": 24,
+              "points": 35
+            },
+            {
+              "rank": 16,
+              "name": "Queens Park Rangers",
+              "played": 24,
+              "points": 34
+            },
+            {
+              "rank": 17,
+              "name": "Birmingham City",
+              "played": 24,
+              "points": 33
+            },
+            {
+              "rank": 18,
+              "name": "Blackburn Rovers",
+              "played": 24,
+              "points": 32
+            },
+            {
+              "rank": 19,
+              "name": "Millwall",
+              "played": 24,
+              "points": 31
+            },
+            {
+              "rank": 20,
+              "name": "Watford",
+              "played": 24,
+              "points": 30
+            },
+            {
+              "rank": 21,
+              "name": "Sheffield Wednesday",
+              "played": 24,
+              "points": 29
+            },
+            {
+              "rank": 22,
+              "name": "Rotherham United",
+              "played": 24,
+              "points": 28
+            },
+            {
+              "rank": 23,
+              "name": "Huddersfield Town",
+              "played": 24,
+              "points": 27
+            },
+            {
+              "rank": 24,
+              "name": "Bristol Rovers",
+              "played": 24,
+              "points": 26
+            }
+          ]
+        },
+        {
+          "name": "EFL League One",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Barnsley",
+              "played": 24,
+              "points": 50
+            },
+            {
+              "rank": 2,
+              "name": "Bolton Wanderers",
+              "played": 24,
+              "points": 48
+            },
+            {
+              "rank": 3,
+              "name": "Bristol Rovers",
+              "played": 24,
+              "points": 46
+            },
+            {
+              "rank": 4,
+              "name": "Burton Albion",
+              "played": 24,
+              "points": 44
+            },
+            {
+              "rank": 5,
+              "name": "Cambridge United",
+              "played": 24,
+              "points": 42
+            },
+            {
+              "rank": 6,
+              "name": "Carlisle United",
+              "played": 24,
+              "points": 41
+            },
+            {
+              "rank": 7,
+              "name": "Charlton Athletic",
+              "played": 24,
+              "points": 40
+            },
+            {
+              "rank": 8,
+              "name": "Cheltenham Town",
+              "played": 24,
+              "points": 39
+            },
+            {
+              "rank": 9,
+              "name": "Derby County",
+              "played": 24,
+              "points": 38
+            },
+            {
+              "rank": 10,
+              "name": "Exeter City",
+              "played": 24,
+              "points": 37
+            },
+            {
+              "rank": 11,
+              "name": "Fleetwood Town",
+              "played": 24,
+              "points": 36
+            },
+            {
+              "rank": 12,
+              "name": "Forest Green Rovers",
+              "played": 24,
+              "points": 35
+            },
+            {
+              "rank": 13,
+              "name": "Ipswich Town",
+              "played": 24,
+              "points": 34
+            },
+            {
+              "rank": 14,
+              "name": "Lincoln City",
+              "played": 24,
+              "points": 33
+            },
+            {
+              "rank": 15,
+              "name": "Milton Keynes Dons",
+              "played": 24,
+              "points": 32
+            },
+            {
+              "rank": 16,
+              "name": "Morecambe",
+              "played": 24,
+              "points": 31
+            },
+            {
+              "rank": 17,
+              "name": "Northampton Town",
+              "played": 24,
+              "points": 30
+            },
+            {
+              "rank": 18,
+              "name": "Oxford United",
+              "played": 24,
+              "points": 29
+            },
+            {
+              "rank": 19,
+              "name": "Peterborough United",
+              "played": 24,
+              "points": 28
+            },
+            {
+              "rank": 20,
+              "name": "Portsmouth",
+              "played": 24,
+              "points": 27
+            },
+            {
+              "rank": 21,
+              "name": "Port Vale",
+              "played": 24,
+              "points": 26
+            },
+            {
+              "rank": 22,
+              "name": "Reading",
+              "played": 24,
+              "points": 25
+            },
+            {
+              "rank": 24,
+              "name": "Wycombe Wanderers",
+              "played": 24,
+              "points": 23
+            }
+          ]
+        },
+        {
+          "name": "EFL League Two",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Doncaster Rovers",
+              "played": 46,
+              "points": 84
+            },
+            {
+              "rank": 2,
+              "name": "Port Vale",
+              "played": 46,
+              "points": 80
+            },
+            {
+              "rank": 3,
+              "name": "Bradford City",
+              "played": 46,
+              "points": 77
+            },
+            {
+              "rank": 4,
+              "name": "AFC Wimbledon",
+              "played": 46,
+              "points": 75
+            },
+            {
+              "rank": 5,
+              "name": "Walsall",
+              "played": 46,
+              "points": 74
+            },
+            {
+              "rank": 6,
+              "name": "Swindon Town",
+              "played": 46,
+              "points": 72
+            },
+            {
+              "rank": 7,
+              "name": "Chesterfield",
+              "played": 46,
+              "points": 70
+            },
+            {
+              "rank": 8,
+              "name": "Notts County",
+              "played": 46,
+              "points": 68
+            },
+            {
+              "rank": 9,
+              "name": "Tranmere Rovers",
+              "played": 46,
+              "points": 67
+            },
+            {
+              "rank": 10,
+              "name": "Newport County",
+              "played": 46,
+              "points": 65
+            },
+            {
+              "rank": 11,
+              "name": "Colchester United",
+              "played": 46,
+              "points": 63
+            },
+            {
+              "rank": 12,
+              "name": "Cheltenham Town",
+              "played": 46,
+              "points": 62
+            },
+            {
+              "rank": 13,
+              "name": "Grimsby Town",
+              "played": 46,
+              "points": 61
+            },
+            {
+              "rank": 14,
+              "name": "Harrogate Town",
+              "played": 46,
+              "points": 60
+            },
+            {
+              "rank": 15,
+              "name": "Cambridge United",
+              "played": 46,
+              "points": 59
+            },
+            {
+              "rank": 16,
+              "name": "Bromley",
+              "played": 46,
+              "points": 58
+            },
+            {
+              "rank": 17,
+              "name": "Accrington Stanley",
+              "played": 46,
+              "points": 57
+            },
+            {
+              "rank": 18,
+              "name": "Barnet",
+              "played": 46,
+              "points": 56
+            },
+            {
+              "rank": 19,
+              "name": "Crawley Town",
+              "played": 46,
+              "points": 55
+            },
+            {
+              "rank": 20,
+              "name": "Barrow",
+              "played": 46,
+              "points": 54
+            },
+            {
+              "rank": 21,
+              "name": "Fleetwood Town",
+              "played": 46,
+              "points": 53
+            },
+            {
+              "rank": 22,
+              "name": "Morecambe",
+              "played": 46,
+              "points": 52
+            },
+            {
+              "rank": 23,
+              "name": "Carlisle United",
+              "played": 46,
+              "points": 51
+            },
+            {
+              "rank": 24,
+              "name": "Oldham Athletic",
+              "played": 46,
+              "points": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "code": "ESP",
+      "leagues": [
+        {
+          "name": "LaLiga EA SPORTS",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "FC Barcelona",
+              "played": 38,
+              "points": 88
+            },
+            {
+              "rank": 2,
+              "name": "Real Madrid",
+              "played": 38,
+              "points": 84
+            },
+            {
+              "rank": 3,
+              "name": "Atlético Madrid",
+              "played": 38,
+              "points": 76
+            },
+            {
+              "rank": 4,
+              "name": "Athletic Club",
+              "played": 38,
+              "points": 70
+            },
+            {
+              "rank": 5,
+              "name": "Villarreal",
+              "played": 38,
+              "points": 70
+            },
+            {
+              "rank": 6,
+              "name": "Real Betis",
+              "played": 38,
+              "points": 60
+            },
+            {
+              "rank": 7,
+              "name": "Celta Vigo",
+              "played": 38,
+              "points": 55
+            },
+            {
+              "rank": 8,
+              "name": "Real Sociedad",
+              "played": 38,
+              "points": 54
+            },
+            {
+              "rank": 9,
+              "name": "Sevilla FC",
+              "played": 38,
+              "points": 53
+            },
+            {
+              "rank": 10,
+              "name": "Rayo Vallecano",
+              "played": 38,
+              "points": 51
+            },
+            {
+              "rank": 11,
+              "name": "Getafe CF",
+              "played": 38,
+              "points": 50
+            },
+            {
+              "rank": 12,
+              "name": "Valencia CF",
+              "played": 38,
+              "points": 48
+            },
+            {
+              "rank": 13,
+              "name": "Almería",
+              "played": 38,
+              "points": 47
+            },
+            {
+              "rank": 14,
+              "name": "Espanyol",
+              "played": 38,
+              "points": 46
+            },
+            {
+              "rank": 15,
+              "name": "Granada CF",
+              "played": 38,
+              "points": 45
+            },
+            {
+              "rank": 16,
+              "name": "Mallorca",
+              "played": 38,
+              "points": 44
+            },
+            {
+              "rank": 17,
+              "name": "Cádiz CF",
+              "played": 38,
+              "points": 43
+            },
+            {
+              "rank": 18,
+              "name": "Leganés",
+              "played": 38,
+              "points": 41
+            },
+            {
+              "rank": 19,
+              "name": "Las Palmas",
+              "played": 38,
+              "points": 40
+            },
+            {
+              "rank": 20,
+              "name": "Real Valladolid",
+              "played": 38,
+              "points": 39
+            }
+          ]
+        },
+        {
+          "name": "LaLiga Hypermotion",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Elche CF",
+              "played": 42,
+              "points": 81
+            },
+            {
+              "rank": 2,
+              "name": "CD Mirandés",
+              "played": 42,
+              "points": 80
+            },
+            {
+              "rank": 3,
+              "name": "Racing Club de Santander",
+              "played": 42,
+              "points": 79
+            },
+            {
+              "rank": 4,
+              "name": "UD Almería",
+              "played": 42,
+              "points": 78
+            },
+            {
+              "rank": 5,
+              "name": "Levante UD",
+              "played": 42,
+              "points": 77
+            },
+            {
+              "rank": 6,
+              "name": "Real Zaragoza",
+              "played": 42,
+              "points": 76
+            },
+            {
+              "rank": 7,
+              "name": "SD Huesca",
+              "played": 42,
+              "points": 75
+            },
+            {
+              "rank": 8,
+              "name": "Deportivo Alavés",
+              "played": 42,
+              "points": 74
+            },
+            {
+              "rank": 9,
+              "name": "Málaga CF",
+              "played": 42,
+              "points": 73
+            },
+            {
+              "rank": 10,
+              "name": "Real Sporting de Gijón",
+              "played": 42,
+              "points": 72
+            },
+            {
+              "rank": 11,
+              "name": "CD Tenerife",
+              "played": 42,
+              "points": 71
+            },
+            {
+              "rank": 12,
+              "name": "Real Oviedo",
+              "played": 42,
+              "points": 70
+            },
+            {
+              "rank": 13,
+              "name": "Córdoba CF",
+              "played": 42,
+              "points": 69
+            },
+            {
+              "rank": 14,
+              "name": "FC Cartagena",
+              "played": 42,
+              "points": 68
+            },
+            {
+              "rank": 15,
+              "name": "Burgos CF",
+              "played": 42,
+              "points": 67
+            },
+            {
+              "rank": 16,
+              "name": "CD Lugo",
+              "played": 42,
+              "points": 66
+            },
+            {
+              "rank": 17,
+              "name": "AD Ceuta FC",
+              "played": 42,
+              "points": 65
+            },
+            {
+              "rank": 18,
+              "name": "Cultural Leonesa",
+              "played": 42,
+              "points": 64
+            },
+            {
+              "rank": 19,
+              "name": "FC Andorra",
+              "played": 42,
+              "points": 63
+            },
+            {
+              "rank": 20,
+              "name": "Real Sociedad B",
+              "played": 42,
+              "points": 62
+            },
+            {
+              "rank": 21,
+              "name": "SD Amorebieta",
+              "played": 42,
+              "points": 61
+            },
+            {
+              "rank": 22,
+              "name": "Alcorcón",
+              "played": 42,
+              "points": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "code": "DEU",
+      "leagues": [
+        {
+          "name": "Bundesliga",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Bayern Munich",
+              "played": 34,
+              "points": 82
+            },
+            {
+              "rank": 2,
+              "name": "Bayer Leverkusen",
+              "played": 34,
+              "points": 69
+            },
+            {
+              "rank": 3,
+              "name": "Eintracht Frankfurt",
+              "played": 34,
+              "points": 60
+            },
+            {
+              "rank": 4,
+              "name": "Borussia Dortmund",
+              "played": 34,
+              "points": 57
+            },
+            {
+              "rank": 5,
+              "name": "SC Freiburg",
+              "played": 34,
+              "points": 55
+            },
+            {
+              "rank": 6,
+              "name": "1. FSV Mainz 05",
+              "played": 34,
+              "points": 52
+            },
+            {
+              "rank": 7,
+              "name": "RB Leipzig",
+              "played": 34,
+              "points": 51
+            },
+            {
+              "rank": 8,
+              "name": "Werder Bremen",
+              "played": 34,
+              "points": 51
+            },
+            {
+              "rank": 9,
+              "name": "VfB Stuttgart",
+              "played": 34,
+              "points": 50
+            },
+            {
+              "rank": 10,
+              "name": "Borussia Mönchengladbach",
+              "played": 34,
+              "points": 45
+            },
+            {
+              "rank": 11,
+              "name": "VfL Wolfsburg",
+              "played": 34,
+              "points": 43
+            },
+            {
+              "rank": 12,
+              "name": "FC Augsburg",
+              "played": 34,
+              "points": 43
+            },
+            {
+              "rank": 13,
+              "name": "1. FC Union Berlin",
+              "played": 34,
+              "points": 42
+            },
+            {
+              "rank": 14,
+              "name": "1. FC Köln",
+              "played": 34,
+              "points": 41
+            },
+            {
+              "rank": 15,
+              "name": "TSG Hoffenheim",
+              "played": 34,
+              "points": 39
+            },
+            {
+              "rank": 16,
+              "name": "1. FC Heidenheim",
+              "played": 34,
+              "points": 37
+            },
+            {
+              "rank": 17,
+              "name": "Holstein Kiel",
+              "played": 34,
+              "points": 25
+            },
+            {
+              "rank": 18,
+              "name": "VfL Bochum",
+              "played": 34,
+              "points": 25
+            }
+          ]
+        },
+        {
+          "name": "2. Bundesliga",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "1. FC Köln",
+              "played": 34,
+              "points": 61
+            },
+            {
+              "rank": 2,
+              "name": "Hamburger SV",
+              "played": 34,
+              "points": 59
+            },
+            {
+              "rank": 3,
+              "name": "SV Elversberg",
+              "played": 34,
+              "points": 58
+            },
+            {
+              "rank": 4,
+              "name": "SC Paderborn 07",
+              "played": 34,
+              "points": 56
+            },
+            {
+              "rank": 5,
+              "name": "Magdeburg",
+              "played": 34,
+              "points": 54
+            },
+            {
+              "rank": 6,
+              "name": "Arminia Bielefeld",
+              "played": 34,
+              "points": 53
+            },
+            {
+              "rank": 7,
+              "name": "FC Schalke 04",
+              "played": 34,
+              "points": 52
+            },
+            {
+              "rank": 8,
+              "name": "SV Darmstadt 98",
+              "played": 34,
+              "points": 51
+            },
+            {
+              "rank": 9,
+              "name": "Preußen Münster",
+              "played": 34,
+              "points": 50
+            },
+            {
+              "rank": 10,
+              "name": "Braunschweig",
+              "played": 34,
+              "points": 49
+            },
+            {
+              "rank": 11,
+              "name": "Arminia Bielefeld",
+              "played": 34,
+              "points": 48
+            },
+            {
+              "rank": 12,
+              "name": "VfL Bochum",
+              "played": 34,
+              "points": 47
+            },
+            {
+              "rank": 13,
+              "name": "Kaiserslautern",
+              "played": 34,
+              "points": 46
+            },
+            {
+              "rank": 14,
+              "name": "SC Paderborn 07",
+              "played": 34,
+              "points": 45
+            },
+            {
+              "rank": 15,
+              "name": "Greuther Fürth",
+              "played": 34,
+              "points": 44
+            },
+            {
+              "rank": 16,
+              "name": "Dynamo Dresden",
+              "played": 34,
+              "points": 43
+            },
+            {
+              "rank": 17,
+              "name": "Hertha BSC",
+              "played": 34,
+              "points": 42
+            },
+            {
+              "rank": 18,
+              "name": "Holstein Kiel",
+              "played": 34,
+              "points": 41
+            }
+          ]
+        },
+        {
+          "name": "3. Liga",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Arminia Bielefeld",
+              "played": 38,
+              "points": 72
+            },
+            {
+              "rank": 2,
+              "name": "Dynamo Dresden",
+              "played": 38,
+              "points": 70
+            },
+            {
+              "rank": 3,
+              "name": "1. FC Saarbrücken",
+              "played": 38,
+              "points": 65
+            },
+            {
+              "rank": 4,
+              "name": "Energie Cottbus",
+              "played": 38,
+              "points": 62
+            },
+            {
+              "rank": 5,
+              "name": "Hansa Rostock",
+              "played": 38,
+              "points": 60
+            },
+            {
+              "rank": 6,
+              "name": "SV Sandhausen",
+              "played": 38,
+              "points": 59
+            },
+            {
+              "rank": 7,
+              "name": "MSV Duisburg",
+              "played": 38,
+              "points": 58
+            },
+            {
+              "rank": 8,
+              "name": "1. FC Kaiserslautern",
+              "played": 38,
+              "points": 57
+            },
+            {
+              "rank": 9,
+              "name": "VfB Lübeck",
+              "played": 38,
+              "points": 56
+            },
+            {
+              "rank": 10,
+              "name": "SC Freiburg II",
+              "played": 38,
+              "points": 55
+            },
+            {
+              "rank": 11,
+              "name": "Jahn Regensburg",
+              "played": 38,
+              "points": 54
+            },
+            {
+              "rank": 12,
+              "name": "Preußen Münster",
+              "played": 38,
+              "points": 53
+            },
+            {
+              "rank": 13,
+              "name": "Hallescher FC",
+              "played": 38,
+              "points": 52
+            },
+            {
+              "rank": 14,
+              "name": "MSV Duisburg",
+              "played": 38,
+              "points": 51
+            },
+            {
+              "rank": 15,
+              "name": "VfL Osnabrück",
+              "played": 38,
+              "points": 50
+            },
+            {
+              "rank": 16,
+              "name": "Wehen Wiesbaden",
+              "played": 38,
+              "points": 49
+            },
+            {
+              "rank": 17,
+              "name": "Alemannia Aachen",
+              "played": 38,
+              "points": 48
+            },
+            {
+              "rank": 18,
+              "name": "Hansa Rostock",
+              "played": 38,
+              "points": 47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "code": "ITA",
+      "leagues": [
+        {
+          "name": "Serie A TIM",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Napoli",
+              "played": 38,
+              "points": 82
+            },
+            {
+              "rank": 2,
+              "name": "Inter Milan",
+              "played": 38,
+              "points": 81
+            },
+            {
+              "rank": 3,
+              "name": "Atalanta",
+              "played": 38,
+              "points": 74
+            },
+            {
+              "rank": 4,
+              "name": "Juventus",
+              "played": 38,
+              "points": 70
+            },
+            {
+              "rank": 5,
+              "name": "Roma",
+              "played": 38,
+              "points": 69
+            },
+            {
+              "rank": 6,
+              "name": "Fiorentina",
+              "played": 38,
+              "points": 65
+            },
+            {
+              "rank": 7,
+              "name": "Lazio",
+              "played": 38,
+              "points": 65
+            },
+            {
+              "rank": 8,
+              "name": "AC Milan",
+              "played": 38,
+              "points": 61
+            },
+            {
+              "rank": 9,
+              "name": "Torino",
+              "played": 38,
+              "points": 59
+            },
+            {
+              "rank": 10,
+              "name": "Bologna",
+              "played": 38,
+              "points": 58
+            },
+            {
+              "rank": 11,
+              "name": "Empoli",
+              "played": 38,
+              "points": 56
+            },
+            {
+              "rank": 12,
+              "name": "Sampdoria",
+              "played": 38,
+              "points": 54
+            },
+            {
+              "rank": 13,
+              "name": "Sassuolo",
+              "played": 38,
+              "points": 52
+            },
+            {
+              "rank": 14,
+              "name": "Monza",
+              "played": 38,
+              "points": 50
+            },
+            {
+              "rank": 15,
+              "name": "Cagliari",
+              "played": 38,
+              "points": 48
+            },
+            {
+              "rank": 16,
+              "name": "Venezia",
+              "played": 38,
+              "points": 46
+            },
+            {
+              "rank": 17,
+              "name": "Udinese",
+              "played": 38,
+              "points": 44
+            },
+            {
+              "rank": 18,
+              "name": "Lecce",
+              "played": 38,
+              "points": 42
+            },
+            {
+              "rank": 19,
+              "name": "Salernitana",
+              "played": 38,
+              "points": 40
+            },
+            {
+              "rank": 20,
+              "name": "Spezia",
+              "played": 38,
+              "points": 38
+            }
+          ]
+        },
+        {
+          "name": "Serie BKT",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Parma",
+              "played": 38,
+              "points": 81
+            },
+            {
+              "rank": 2,
+              "name": "Como",
+              "played": 38,
+              "points": 80
+            },
+            {
+              "rank": 3,
+              "name": "Venezia",
+              "played": 38,
+              "points": 79
+            },
+            {
+              "rank": 4,
+              "name": "Frosinone",
+              "played": 38,
+              "points": 78
+            },
+            {
+              "rank": 5,
+              "name": "Sampdoria",
+              "played": 38,
+              "points": 77
+            },
+            {
+              "rank": 6,
+              "name": "Brescia",
+              "played": 38,
+              "points": 76
+            },
+            {
+              "rank": 7,
+              "name": "Modena",
+              "played": 38,
+              "points": 75
+            },
+            {
+              "rank": 8,
+              "name": "Feralpisalò",
+              "played": 38,
+              "points": 74
+            },
+            {
+              "rank": 9,
+              "name": "Cittadella",
+              "played": 38,
+              "points": 73
+            },
+            {
+              "rank": 10,
+              "name": "Reggina",
+              "played": 38,
+              "points": 72
+            },
+            {
+              "rank": 11,
+              "name": "Pisa",
+              "played": 38,
+              "points": 71
+            },
+            {
+              "rank": 12,
+              "name": "Cosenza",
+              "played": 38,
+              "points": 70
+            },
+            {
+              "rank": 13,
+              "name": "Ascoli",
+              "played": 38,
+              "points": 69
+            },
+            {
+              "rank": 14,
+              "name": "Ternana",
+              "played": 38,
+              "points": 68
+            },
+            {
+              "rank": 15,
+              "name": "Salernitana",
+              "played": 38,
+              "points": 67
+            },
+            {
+              "rank": 16,
+              "name": "Südtirol",
+              "played": 38,
+              "points": 66
+            },
+            {
+              "rank": 17,
+              "name": "Carrarese",
+              "played": 38,
+              "points": 65
+            },
+            {
+              "rank": 18,
+              "name": "Lecco",
+              "played": 38,
+              "points": 64
+            },
+            {
+              "rank": 19,
+              "name": "Cesena",
+              "played": 38,
+              "points": 63
+            },
+            {
+              "rank": 20,
+              "name": "Mantova",
+              "played": 38,
+              "points": 62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "USA & Canada",
+      "code": "USA/CAN",
+      "leagues": [
+        {
+          "name": "Major League Soccer",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Inter Miami CF",
+              "played": 34,
+              "points": 67
+            },
+            {
+              "rank": 2,
+              "name": "LA Galaxy",
+              "played": 34,
+              "points": 63
+            },
+            {
+              "rank": 3,
+              "name": "FC Cincinnati",
+              "played": 34,
+              "points": 62
+            },
+            {
+              "rank": 4,
+              "name": "Orlando City SC",
+              "played": 34,
+              "points": 57
+            },
+            {
+              "rank": 5,
+              "name": "Philadelphia Union",
+              "played": 34,
+              "points": 55
+            },
+            {
+              "rank": 6,
+              "name": "New York Red Bulls",
+              "played": 34,
+              "points": 53
+            },
+            {
+              "rank": 7,
+              "name": "Columbus Crew",
+              "played": 34,
+              "points": 52
+            },
+            {
+              "rank": 8,
+              "name": "Charlotte FC",
+              "played": 34,
+              "points": 48
+            },
+            {
+              "rank": 9,
+              "name": "New York City FC",
+              "played": 34,
+              "points": 48
+            },
+            {
+              "rank": 10,
+              "name": "D.C. United",
+              "played": 34,
+              "points": 42
+            },
+            {
+              "rank": 11,
+              "name": "Nashville SC",
+              "played": 34,
+              "points": 41
+            },
+            {
+              "rank": 12,
+              "name": "Atlanta United FC",
+              "played": 34,
+              "points": 40
+            },
+            {
+              "rank": 13,
+              "name": "Toronto FC",
+              "played": 34,
+              "points": 39
+            },
+            {
+              "rank": 14,
+              "name": "CF Montréal",
+              "played": 34,
+              "points": 38
+            },
+            {
+              "rank": 15,
+              "name": "Chicago Fire FC",
+              "played": 34,
+              "points": 36
+            },
+            {
+              "rank": 16,
+              "name": "Los Angeles FC",
+              "played": 34,
+              "points": 61
+            },
+            {
+              "rank": 17,
+              "name": "Seattle Sounders FC",
+              "played": 34,
+              "points": 57
+            },
+            {
+              "rank": 18,
+              "name": "Real Salt Lake",
+              "played": 34,
+              "points": 56
+            },
+            {
+              "rank": 19,
+              "name": "Sporting Kansas City",
+              "played": 34,
+              "points": 52
+            },
+            {
+              "rank": 20,
+              "name": "Portland Timbers",
+              "played": 34,
+              "points": 48
+            },
+            {
+              "rank": 21,
+              "name": "Houston Dynamo FC",
+              "played": 34,
+              "points": 47
+            },
+            {
+              "rank": 22,
+              "name": "Minnesota United FC",
+              "played": 34,
+              "points": 47
+            },
+            {
+              "rank": 23,
+              "name": "Vancouver Whitecaps FC",
+              "played": 34,
+              "points": 46
+            },
+            {
+              "rank": 24,
+              "name": "Austin FC",
+              "played": 34,
+              "points": 41
+            },
+            {
+              "rank": 25,
+              "name": "St. Louis City SC",
+              "played": 34,
+              "points": 40
+            },
+            {
+              "rank": 26,
+              "name": "San Jose Earthquakes",
+              "played": 34,
+              "points": 35
+            },
+            {
+              "rank": 27,
+              "name": "Colorado Rapids",
+              "played": 34,
+              "points": 34
+            },
+            {
+              "rank": 28,
+              "name": "FC Dallas",
+              "played": 34,
+              "points": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Portugal",
+      "code": "PRT",
+      "leagues": [
+        {
+          "name": "Liga Portugal",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Sporting CP",
+              "played": 34,
+              "points": 90
+            },
+            {
+              "rank": 2,
+              "name": "Benfica",
+              "played": 34,
+              "points": 80
+            },
+            {
+              "rank": 3,
+              "name": "Porto",
+              "played": 34,
+              "points": 69
+            },
+            {
+              "rank": 4,
+              "name": "Braga",
+              "played": 34,
+              "points": 68
+            },
+            {
+              "rank": 5,
+              "name": "Vitória de Guimarães",
+              "played": 34,
+              "points": 63
+            },
+            {
+              "rank": 6,
+              "name": "Moreirense",
+              "played": 34,
+              "points": 55
+            },
+            {
+              "rank": 7,
+              "name": "Arouca",
+              "played": 34,
+              "points": 47
+            },
+            {
+              "rank": 8,
+              "name": "Famalicão",
+              "played": 34,
+              "points": 42
+            },
+            {
+              "rank": 9,
+              "name": "Casa Pia",
+              "played": 34,
+              "points": 38
+            },
+            {
+              "rank": 10,
+              "name": "Farense",
+              "played": 34,
+              "points": 37
+            },
+            {
+              "rank": 11,
+              "name": "Rio Ave",
+              "played": 34,
+              "points": 37
+            },
+            {
+              "rank": 12,
+              "name": "Gil Vicente",
+              "played": 34,
+              "points": 36
+            },
+            {
+              "rank": 13,
+              "name": "Estoril",
+              "played": 34,
+              "points": 35
+            },
+            {
+              "rank": 14,
+              "name": "Boavista",
+              "played": 34,
+              "points": 32
+            },
+            {
+              "rank": 15,
+              "name": "Estrela da Amadora",
+              "played": 34,
+              "points": 33
+            },
+            {
+              "rank": 17,
+              "name": "Vizela",
+              "played": 34,
+              "points": 26
+            },
+            {
+              "rank": 18,
+              "name": "Chaves",
+              "played": 34,
+              "points": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Belgium",
+      "code": "BEL",
+      "leagues": [
+        {
+          "name": "Pro League",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Union Saint-Gilloise",
+              "played": 40,
+              "points": 56
+            },
+            {
+              "rank": 2,
+              "name": "Club Brugge",
+              "played": 40,
+              "points": 53
+            },
+            {
+              "rank": 3,
+              "name": "Genk",
+              "played": 40,
+              "points": 47
+            },
+            {
+              "rank": 4,
+              "name": "Anderlecht",
+              "played": 40,
+              "points": 36
+            },
+            {
+              "rank": 5,
+              "name": "Antwerp",
+              "played": 40,
+              "points": 32
+            },
+            {
+              "rank": 6,
+              "name": "Gent",
+              "played": 40,
+              "points": 26
+            },
+            {
+              "rank": 7,
+              "name": "Charleroi",
+              "played": 40,
+              "points": 40
+            },
+            {
+              "rank": 8,
+              "name": "Westerlo",
+              "played": 40,
+              "points": 33
+            },
+            {
+              "rank": 9,
+              "name": "Mechelen",
+              "played": 40,
+              "points": 31
+            },
+            {
+              "rank": 10,
+              "name": "Dender",
+              "played": 40,
+              "points": 29
+            },
+            {
+              "rank": 11,
+              "name": "Standard Liège",
+              "played": 40,
+              "points": 27
+            },
+            {
+              "rank": 12,
+              "name": "Oud-Heverlee Leuven",
+              "played": 40,
+              "points": 27
+            },
+            {
+              "rank": 13,
+              "name": "Sint-Truiden",
+              "played": 36,
+              "points": 41
+            },
+            {
+              "rank": 14,
+              "name": "Cercle Brugge",
+              "played": 36,
+              "points": 39
+            },
+            {
+              "rank": 15,
+              "name": "Kortrijk",
+              "played": 36,
+              "points": 37
+            },
+            {
+              "rank": 16,
+              "name": "Beerschot",
+              "played": 36,
+              "points": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Netherlands",
+      "code": "NLD",
+      "leagues": [
+        {
+          "name": "Eredivisie",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "PSV",
+              "played": 34,
+              "points": 79
+            },
+            {
+              "rank": 2,
+              "name": "Ajax",
+              "played": 34,
+              "points": 78
+            },
+            {
+              "rank": 3,
+              "name": "Feyenoord",
+              "played": 34,
+              "points": 68
+            },
+            {
+              "rank": 4,
+              "name": "FC Utrecht",
+              "played": 34,
+              "points": 64
+            },
+            {
+              "rank": 5,
+              "name": "AZ Alkmaar",
+              "played": 34,
+              "points": 57
+            },
+            {
+              "rank": 6,
+              "name": "FC Twente",
+              "played": 34,
+              "points": 54
+            },
+            {
+              "rank": 7,
+              "name": "Go Ahead Eagles",
+              "played": 34,
+              "points": 51
+            },
+            {
+              "rank": 8,
+              "name": "NEC Nijmegen",
+              "played": 34,
+              "points": 43
+            },
+            {
+              "rank": 9,
+              "name": "SC Heerenveen",
+              "played": 34,
+              "points": 43
+            },
+            {
+              "rank": 10,
+              "name": "PEC Zwolle",
+              "played": 34,
+              "points": 41
+            },
+            {
+              "rank": 11,
+              "name": "Fortuna Sittard",
+              "played": 34,
+              "points": 41
+            },
+            {
+              "rank": 12,
+              "name": "Sparta Rotterdam",
+              "played": 34,
+              "points": 39
+            },
+            {
+              "rank": 13,
+              "name": "FC Groningen",
+              "played": 34,
+              "points": 39
+            },
+            {
+              "rank": 14,
+              "name": "Heracles Almelo",
+              "played": 34,
+              "points": 38
+            },
+            {
+              "rank": 15,
+              "name": "NAC Breda",
+              "played": 34,
+              "points": 33
+            },
+            {
+              "rank": 16,
+              "name": "Willem II",
+              "played": 34,
+              "points": 26
+            },
+            {
+              "rank": 17,
+              "name": "RKC Waalwijk",
+              "played": 34,
+              "points": 25
+            },
+            {
+              "rank": 18,
+              "name": "Almere City FC",
+              "played": 34,
+              "points": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Austria",
+      "code": "AUT",
+      "leagues": [
+        {
+          "name": "Admiral Bundesliga",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "SK Sturm Graz",
+              "played": 32,
+              "points": 40
+            },
+            {
+              "rank": 2,
+              "name": "FC Red Bull Salzburg",
+              "played": 32,
+              "points": 38
+            },
+            {
+              "rank": 3,
+              "name": "FK Austria Wien",
+              "played": 32,
+              "points": 37
+            },
+            {
+              "rank": 4,
+              "name": "Wolfsberger AC",
+              "played": 32,
+              "points": 37
+            },
+            {
+              "rank": 5,
+              "name": "SK Rapid Wien",
+              "played": 32,
+              "points": 27
+            },
+            {
+              "rank": 6,
+              "name": "FC Blau-Weiß Linz",
+              "played": 32,
+              "points": 21
+            },
+            {
+              "rank": 7,
+              "name": "LASK",
+              "played": 32,
+              "points": 38
+            },
+            {
+              "rank": 8,
+              "name": "TSV Hartberg",
+              "played": 32,
+              "points": 31
+            },
+            {
+              "rank": 9,
+              "name": "WSG Tirol",
+              "played": 32,
+              "points": 20
+            },
+            {
+              "rank": 10,
+              "name": "Grazer AK",
+              "played": 32,
+              "points": 20
+            },
+            {
+              "rank": 11,
+              "name": "Rheindorf Altach",
+              "played": 32,
+              "points": 18
+            },
+            {
+              "rank": 12,
+              "name": "SK Austria Klagenfurt",
+              "played": 32,
+              "points": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Denmark",
+      "code": "DNK",
+      "leagues": [
+        {
+          "name": "3F Superliga",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Kobenhvn",
+              "played": 32,
+              "points": 63
+            },
+            {
+              "rank": 2,
+              "name": "FC Midtjylland",
+              "played": 32,
+              "points": 62
+            },
+            {
+              "rank": 3,
+              "name": "Brøndby IF",
+              "played": 32,
+              "points": 51
+            },
+            {
+              "rank": 4,
+              "name": "Randers FC",
+              "played": 32,
+              "points": 48
+            },
+            {
+              "rank": 5,
+              "name": "FC Nordsjælland",
+              "played": 32,
+              "points": 46
+            },
+            {
+              "rank": 6,
+              "name": "Aarhus Gymnastikforening",
+              "played": 32,
+              "points": 40
+            },
+            {
+              "rank": 7,
+              "name": "Silkeborg IF",
+              "played": 32,
+              "points": 39
+            },
+            {
+              "rank": 8,
+              "name": "Viborg FF",
+              "played": 32,
+              "points": 38
+            },
+            {
+              "rank": 9,
+              "name": "SønderjyskE Fodbold",
+              "played": 32,
+              "points": 33
+            },
+            {
+              "rank": 10,
+              "name": "Vejle Boldklub",
+              "played": 32,
+              "points": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scotland",
+      "code": "SCO",
+      "leagues": [
+        {
+          "name": "Cinch Premiership",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Celtic FC",
+              "played": 38,
+              "points": 92
+            },
+            {
+              "rank": 2,
+              "name": "Rangers FC",
+              "played": 38,
+              "points": 75
+            },
+            {
+              "rank": 3,
+              "name": "Hibernian FC",
+              "played": 38,
+              "points": 58
+            },
+            {
+              "rank": 4,
+              "name": "Dundee United FC",
+              "played": 38,
+              "points": 53
+            },
+            {
+              "rank": 5,
+              "name": "Aberdeen FC",
+              "played": 38,
+              "points": 53
+            },
+            {
+              "rank": 6,
+              "name": "St Mirren FC",
+              "played": 38,
+              "points": 50
+            },
+            {
+              "rank": 7,
+              "name": "Heart of Midlothian FC",
+              "played": 38,
+              "points": 52
+            },
+            {
+              "rank": 8,
+              "name": "Motherwell FC",
+              "played": 38,
+              "points": 49
+            },
+            {
+              "rank": 9,
+              "name": "Kilmarnock FC",
+              "played": 38,
+              "points": 44
+            },
+            {
+              "rank": 10,
+              "name": "Dundee FC",
+              "played": 38,
+              "points": 41
+            },
+            {
+              "rank": 11,
+              "name": "Ross County FC",
+              "played": 38,
+              "points": 37
+            },
+            {
+              "rank": 12,
+              "name": "St Johnstone FC",
+              "played": 38,
+              "points": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sweden",
+      "code": "SWE",
+      "leagues": [
+        {
+          "name": "Allsvenskan",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Mjällby AIF",
+              "played": 22,
+              "points": 53
+            },
+            {
+              "rank": 2,
+              "name": "Hammarby Fotboll",
+              "played": 21,
+              "points": 42
+            },
+            {
+              "rank": 3,
+              "name": "IFK Göteborg",
+              "played": 22,
+              "points": 38
+            },
+            {
+              "rank": 4,
+              "name": "Malmö FF",
+              "played": 21,
+              "points": 37
+            },
+            {
+              "rank": 5,
+              "name": "AIK Fotboll",
+              "played": 21,
+              "points": 37
+            },
+            {
+              "rank": 6,
+              "name": "IF Elfsborg",
+              "played": 22,
+              "points": 36
+            },
+            {
+              "rank": 7,
+              "name": "GAIS",
+              "played": 21,
+              "points": 35
+            },
+            {
+              "rank": 8,
+              "name": "Djurgårdens IF",
+              "played": 21,
+              "points": 31
+            },
+            {
+              "rank": 9,
+              "name": "IF Brommapojkarna",
+              "played": 22,
+              "points": 26
+            },
+            {
+              "rank": 10,
+              "name": "BK Häcken",
+              "played": 21,
+              "points": 26
+            },
+            {
+              "rank": 11,
+              "name": "IFK Norrköping",
+              "played": 21,
+              "points": 25
+            },
+            {
+              "rank": 12,
+              "name": "IK Sirius Fotboll",
+              "played": 21,
+              "points": 23
+            },
+            {
+              "rank": 13,
+              "name": "Halmstads BK",
+              "played": 22,
+              "points": 21
+            },
+            {
+              "rank": 16,
+              "name": "IFK Värnamo",
+              "played": 21,
+              "points": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Norway",
+      "code": "NOR",
+      "leagues": [
+        {
+          "name": "Eliteserien",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "FK Bodø/Glimt",
+              "played": 19,
+              "points": 42
+            },
+            {
+              "rank": 2,
+              "name": "Viking FK",
+              "played": 19,
+              "points": 42
+            },
+            {
+              "rank": 3,
+              "name": "SK Brann",
+              "played": 18,
+              "points": 36
+            },
+            {
+              "rank": 4,
+              "name": "Tromsø IL",
+              "played": 19,
+              "points": 33
+            },
+            {
+              "rank": 5,
+              "name": "Rosenborg BK",
+              "played": 18,
+              "points": 30
+            },
+            {
+              "rank": 6,
+              "name": "Vålerenga Fotball",
+              "played": 20,
+              "points": 30
+            },
+            {
+              "rank": 7,
+              "name": "Sandefjord Fotball",
+              "played": 18,
+              "points": 28
+            },
+            {
+              "rank": 8,
+              "name": "KFUM-Kameratene Oslo",
+              "played": 19,
+              "points": 27
+            },
+            {
+              "rank": 9,
+              "name": "Molde FK",
+              "played": 19,
+              "points": 27
+            },
+            {
+              "rank": 10,
+              "name": "Fredrikstad FK",
+              "played": 18,
+              "points": 26
+            },
+            {
+              "rank": 11,
+              "name": "Kristiansund BK",
+              "played": 19,
+              "points": 23
+            },
+            {
+              "rank": 12,
+              "name": "Sarpsborg 08 FF",
+              "played": 19,
+              "points": 22
+            },
+            {
+              "rank": 13,
+              "name": "Hamarkameratene",
+              "played": 19,
+              "points": 21
+            },
+            {
+              "rank": 14,
+              "name": "Bryne FK",
+              "played": 20,
+              "points": 20
+            },
+            {
+              "rank": 15,
+              "name": "Strømsgodset Toppfotball",
+              "played": 19,
+              "points": 10
+            },
+            {
+              "rank": 16,
+              "name": "FK Haugesund",
+              "played": 19,
+              "points": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Poland",
+      "code": "POL",
+      "leagues": [
+        {
+          "name": "Ekstraklasa",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Wisła Płock",
+              "played": 7,
+              "points": 16
+            },
+            {
+              "rank": 2,
+              "name": "Górnik Zabrze",
+              "played": 7,
+              "points": 12
+            },
+            {
+              "rank": 3,
+              "name": "KS Cracovia",
+              "played": 6,
+              "points": 11
+            },
+            {
+              "rank": 4,
+              "name": "Korona Kielce",
+              "played": 7,
+              "points": 11
+            },
+            {
+              "rank": 5,
+              "name": "Jagiellonia Białystok",
+              "played": 4,
+              "points": 9
+            },
+            {
+              "rank": 6,
+              "name": "Radomiak Radom",
+              "played": 7,
+              "points": 8
+            },
+            {
+              "rank": 7,
+              "name": "Bruk-Bet Termalica Nieciecza",
+              "played": 7,
+              "points": 8
+            },
+            {
+              "rank": 8,
+              "name": "Motor Lublin",
+              "played": 6,
+              "points": 8
+            },
+            {
+              "rank": 9,
+              "name": "Arka Gdynia",
+              "played": 7,
+              "points": 8
+            },
+            {
+              "rank": 10,
+              "name": "Legia Warszawa",
+              "played": 4,
+              "points": 7
+            },
+            {
+              "rank": 11,
+              "name": "Widzew Łódź",
+              "played": 6,
+              "points": 7
+            },
+            {
+              "rank": 12,
+              "name": "Lech Poznań",
+              "played": 4,
+              "points": 7
+            },
+            {
+              "rank": 13,
+              "name": "Pogoń Szczecin",
+              "played": 6,
+              "points": 7
+            },
+            {
+              "rank": 14,
+              "name": "GKS Katowice",
+              "played": 7,
+              "points": 7
+            },
+            {
+              "rank": 15,
+              "name": "Zagłębie Lubin",
+              "played": 6,
+              "points": 6
+            },
+            {
+              "rank": 16,
+              "name": "Raków Częstochowa",
+              "played": 4,
+              "points": 6
+            },
+            {
+              "rank": 17,
+              "name": "Piast Gliwice",
+              "played": 5,
+              "points": 3
+            },
+            {
+              "rank": 18,
+              "name": "Lechia Gdańsk",
+              "played": 6,
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Romania",
+      "code": "ROU",
+      "leagues": [
+        {
+          "name": "Superliga (Liga I)",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "CS Universitatea Craiova",
+              "played": 7,
+              "points": 19
+            },
+            {
+              "rank": 2,
+              "name": "FC Rapid București",
+              "played": 8,
+              "points": 18
+            },
+            {
+              "rank": 3,
+              "name": "FC Dinamo București",
+              "played": 8,
+              "points": 15
+            },
+            {
+              "rank": 4,
+              "name": "FC UTA Arad",
+              "played": 8,
+              "points": 13
+            },
+            {
+              "rank": 5,
+              "name": "FC Botoșani",
+              "played": 7,
+              "points": 12
+            },
+            {
+              "rank": 6,
+              "name": "FC Universitatea Cluj",
+              "played": 8,
+              "points": 12
+            },
+            {
+              "rank": 7,
+              "name": "FC Argeș Pitești",
+              "played": 7,
+              "points": 12
+            },
+            {
+              "rank": 8,
+              "name": "AFC Unirea 04 Slobozia",
+              "played": 8,
+              "points": 11
+            },
+            {
+              "rank": 9,
+              "name": "FCV Farul Constanța",
+              "played": 7,
+              "points": 10
+            },
+            {
+              "rank": 10,
+              "name": "ASC Oțelul Galați",
+              "played": 7,
+              "points": 9
+            },
+            {
+              "rank": 11,
+              "name": "FC Hermannstadt",
+              "played": 8,
+              "points": 7
+            },
+            {
+              "rank": 12,
+              "name": "FC Petrolul Ploiești",
+              "played": 7,
+              "points": 6
+            },
+            {
+              "rank": 13,
+              "name": "FCSB",
+              "played": 7,
+              "points": 5
+            },
+            {
+              "rank": 14,
+              "name": "CFR 1907 Cluj",
+              "played": 6,
+              "points": 5
+            },
+            {
+              "rank": 15,
+              "name": "FC Metaloglobus București",
+              "played": 7,
+              "points": 1
+            },
+            {
+              "rank": 16,
+              "name": "FK Csíkszereda Miercurea Ciuc",
+              "played": 6,
+              "points": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "SAU",
+      "leagues": [
+        {
+          "name": "Roshn Saudi League",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Al-Nassr FC",
+              "played": 1,
+              "points": 3
+            },
+            {
+              "rank": 2,
+              "name": "Al-Ittihad Club",
+              "played": 1,
+              "points": 3
+            },
+            {
+              "rank": 3,
+              "name": "Al-Khaleej Club",
+              "played": 1,
+              "points": 3
+            },
+            {
+              "rank": 4,
+              "name": "Al Qadsiah FC",
+              "played": 1,
+              "points": 3
+            },
+            {
+              "rank": 5,
+              "name": "Al Hilal SFC",
+              "played": 1,
+              "points": 3
+            },
+            {
+              "rank": 6,
+              "name": "Al-Ettifaq FC",
+              "played": 1,
+              "points": 3
+            },
+            {
+              "rank": 7,
+              "name": "Al-Fayha FC",
+              "played": 1,
+              "points": 3
+            },
+            {
+              "rank": 8,
+              "name": "Al-Ahli Saudi FC",
+              "played": 1,
+              "points": 3
+            },
+            {
+              "rank": 9,
+              "name": "Damac FC",
+              "played": 1,
+              "points": 1
+            },
+            {
+              "rank": 11,
+              "name": "Al-Kholood Club",
+              "played": 1,
+              "points": 0
+            },
+            {
+              "rank": 12,
+              "name": "Al Fateh SC",
+              "played": 1,
+              "points": 0
+            },
+            {
+              "rank": 13,
+              "name": "NEOM SC",
+              "played": 1,
+              "points": 0
+            },
+            {
+              "rank": 14,
+              "name": "Al-Najma SC",
+              "played": 1,
+              "points": 0
+            },
+            {
+              "rank": 15,
+              "name": "Al-Riyadh SC",
+              "played": 1,
+              "points": 0
+            },
+            {
+              "rank": 16,
+              "name": "Al Akhdoud Saudi Club",
+              "played": 1,
+              "points": 0
+            },
+            {
+              "rank": 17,
+              "name": "Al-Shabab FC",
+              "played": 1,
+              "points": 0
+            },
+            {
+              "rank": 18,
+              "name": "Al-Taawoun FC",
+              "played": 1,
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "code": "CHN",
+      "leagues": [
+        {
+          "name": "Chinese Super League",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Chengdu Rongcheng F.C.",
+              "played": 23,
+              "points": 50
+            },
+            {
+              "rank": 2,
+              "name": "Shanghai Shenhua F.C.",
+              "played": 22,
+              "points": 49
+            },
+            {
+              "rank": 3,
+              "name": "Beijing Guoan F.C.",
+              "played": 22,
+              "points": 48
+            },
+            {
+              "rank": 4,
+              "name": "Shanghai Port F.C.",
+              "played": 23,
+              "points": 48
+            },
+            {
+              "rank": 5,
+              "name": "Shandong Taishan F.C.",
+              "played": 22,
+              "points": 37
+            },
+            {
+              "rank": 6,
+              "name": "Zhejiang Professional F.C.",
+              "played": 23,
+              "points": 34
+            },
+            {
+              "rank": 7,
+              "name": "Tianjin Jinmen Tiger F.C.",
+              "played": 23,
+              "points": 34
+            },
+            {
+              "rank": 9,
+              "name": "Dalian Yingbo F.C.",
+              "played": 22,
+              "points": 29
+            },
+            {
+              "rank": 10,
+              "name": "Qingdao West Coast F.C.",
+              "played": 22,
+              "points": 27
+            },
+            {
+              "rank": 11,
+              "name": "Henan F.C.",
+              "played": 23,
+              "points": 23
+            },
+            {
+              "rank": 12,
+              "name": "Wuhan Three Towns FC",
+              "played": 22,
+              "points": 21
+            },
+            {
+              "rank": 13,
+              "name": "Meizhou Hakka F.C.",
+              "played": 22,
+              "points": 17
+            },
+            {
+              "rank": 14,
+              "name": "Shenzhen Peng City F.C.",
+              "played": 22,
+              "points": 17
+            },
+            {
+              "rank": 15,
+              "name": "Qingdao Hainiu F.C.",
+              "played": 23,
+              "points": 16
+            },
+            {
+              "rank": 16,
+              "name": "Changchun Yatai F.C.",
+              "played": 23,
+              "points": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "South Korea",
+      "code": "KOR",
+      "leagues": [
+        {
+          "name": "K League 1",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Jeonbuk Hyundai Motors",
+              "played": 28,
+              "points": 63
+            },
+            {
+              "rank": 2,
+              "name": "Gimcheon Sangmu FC",
+              "played": 27,
+              "points": 46
+            },
+            {
+              "rank": 3,
+              "name": "Pohang Steelers",
+              "played": 27,
+              "points": 44
+            },
+            {
+              "rank": 4,
+              "name": "Daejeon Hana Citizen",
+              "played": 27,
+              "points": 42
+            },
+            {
+              "rank": 5,
+              "name": "FC Seoul",
+              "played": 27,
+              "points": 40
+            },
+            {
+              "rank": 6,
+              "name": "Gwangju FC",
+              "played": 28,
+              "points": 38
+            },
+            {
+              "rank": 7,
+              "name": "Gangwon FC",
+              "played": 27,
+              "points": 35
+            },
+            {
+              "rank": 8,
+              "name": "Ulsan HD FC",
+              "played": 28,
+              "points": 34
+            },
+            {
+              "rank": 9,
+              "name": "Suwon FC",
+              "played": 28,
+              "points": 31
+            },
+            {
+              "rank": 10,
+              "name": "Jeju United",
+              "played": 28,
+              "points": 31
+            },
+            {
+              "rank": 11,
+              "name": "FC Anyang",
+              "played": 27,
+              "points": 30
+            },
+            {
+              "rank": 12,
+              "name": "Daegu FC",
+              "played": 28,
+              "points": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "code": "AUS",
+      "leagues": [
+        {
+          "name": "A-League Men",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Auckland FC",
+              "played": 26,
+              "points": 53
+            },
+            {
+              "rank": 2,
+              "name": "Melbourne City FC",
+              "played": 26,
+              "points": 48
+            },
+            {
+              "rank": 3,
+              "name": "Western United FC",
+              "played": 26,
+              "points": 47
+            },
+            {
+              "rank": 4,
+              "name": "Western Sydney Wanderers FC",
+              "played": 26,
+              "points": 46
+            },
+            {
+              "rank": 5,
+              "name": "Melbourne Victory FC",
+              "played": 26,
+              "points": 43
+            },
+            {
+              "rank": 6,
+              "name": "Adelaide United FC",
+              "played": 26,
+              "points": 38
+            },
+            {
+              "rank": 7,
+              "name": "Sydney FC",
+              "played": 26,
+              "points": 37
+            },
+            {
+              "rank": 8,
+              "name": "Macarthur FC",
+              "played": 26,
+              "points": 33
+            },
+            {
+              "rank": 9,
+              "name": "Newcastle Jets FC",
+              "played": 26,
+              "points": 30
+            },
+            {
+              "rank": 10,
+              "name": "Central Coast Mariners FC",
+              "played": 26,
+              "points": 26
+            },
+            {
+              "rank": 11,
+              "name": "Wellington Phoenix FC",
+              "played": 26,
+              "points": 24
+            },
+            {
+              "rank": 12,
+              "name": "Brisbane Roar FC",
+              "played": 26,
+              "points": 21
+            },
+            {
+              "rank": 13,
+              "name": "Perth Glory FC",
+              "played": 26,
+              "points": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "code": "IND",
+      "leagues": [
+        {
+          "name": "Indian Super League",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Bengaluru FC",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 2,
+              "name": "Chennaiyin FC",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 3,
+              "name": "East Bengal FC",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 4,
+              "name": "FC Goa",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 5,
+              "name": "Hyderabad FC",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 6,
+              "name": "Inter Kashi FC",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 7,
+              "name": "Jamshedpur FC",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 8,
+              "name": "Kerala Blasters FC",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 9,
+              "name": "Mohammedan SC",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 10,
+              "name": "Mohun Bagan Super Giant",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 11,
+              "name": "Mumbai City FC",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 12,
+              "name": "NorthEast United FC",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 13,
+              "name": "Odisha FC",
+              "played": 0,
+              "points": 0
+            },
+            {
+              "rank": 14,
+              "name": "Punjab FC",
+              "played": 0,
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "code": "ARG",
+      "leagues": [
+        {
+          "name": "Liga Profesional de Fútbol",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Rosario Central",
+              "played": 22,
+              "points": 45
+            },
+            {
+              "rank": 2,
+              "name": "River Plate",
+              "played": 22,
+              "points": 43
+            },
+            {
+              "rank": 3,
+              "name": "Boca Juniors",
+              "played": 22,
+              "points": 42
+            },
+            {
+              "rank": 4,
+              "name": "Argentinos Juniors",
+              "played": 23,
+              "points": 41
+            },
+            {
+              "rank": 5,
+              "name": "Barracas Central",
+              "played": 23,
+              "points": 40
+            },
+            {
+              "rank": 6,
+              "name": "San Lorenzo",
+              "played": 23,
+              "points": 39
+            },
+            {
+              "rank": 7,
+              "name": "Huracán",
+              "played": 23,
+              "points": 38
+            },
+            {
+              "rank": 8,
+              "name": "Tigre",
+              "played": 23,
+              "points": 35
+            },
+            {
+              "rank": 9,
+              "name": "Independiente Rivadavia",
+              "played": 23,
+              "points": 35
+            },
+            {
+              "rank": 10,
+              "name": "Deportivo Riestra",
+              "played": 22,
+              "points": 34
+            },
+            {
+              "rank": 11,
+              "name": "Estudiantes de La Plata",
+              "played": 23,
+              "points": 33
+            },
+            {
+              "rank": 12,
+              "name": "Independiente",
+              "played": 22,
+              "points": 32
+            },
+            {
+              "rank": 13,
+              "name": "Racing Club",
+              "played": 22,
+              "points": 32
+            },
+            {
+              "rank": 14,
+              "name": "Central Córdoba",
+              "played": 23,
+              "points": 31
+            },
+            {
+              "rank": 15,
+              "name": "Lanús",
+              "played": 23,
+              "points": 30
+            },
+            {
+              "rank": 16,
+              "name": "Platense",
+              "played": 21,
+              "points": 29
+            },
+            {
+              "rank": 17,
+              "name": "Defensa y Justicia",
+              "played": 22,
+              "points": 28
+            },
+            {
+              "rank": 18,
+              "name": "Vélez Sarsfield",
+              "played": 23,
+              "points": 28
+            },
+            {
+              "rank": 19,
+              "name": "Atlético Tucumán",
+              "played": 22,
+              "points": 25
+            },
+            {
+              "rank": 20,
+              "name": "Newell's Old Boys",
+              "played": 23,
+              "points": 25
+            },
+            {
+              "rank": 21,
+              "name": "Belgrano",
+              "played": 22,
+              "points": 25
+            },
+            {
+              "rank": 22,
+              "name": "Banfield",
+              "played": 23,
+              "points": 24
+            },
+            {
+              "rank": 23,
+              "name": "Instituto",
+              "played": 23,
+              "points": 24
+            },
+            {
+              "rank": 24,
+              "name": "Unión de Santa Fe",
+              "played": 22,
+              "points": 23
+            },
+            {
+              "rank": 25,
+              "name": "Gimnasia y Esgrima",
+              "played": 22,
+              "points": 23
+            },
+            {
+              "rank": 26,
+              "name": "Sarmiento",
+              "played": 22,
+              "points": 21
+            },
+            {
+              "rank": 27,
+              "name": "Godoy Cruz",
+              "played": 22,
+              "points": 20
+            },
+            {
+              "rank": 28,
+              "name": "Talleres",
+              "played": 22,
+              "points": 18
+            },
+            {
+              "rank": 29,
+              "name": "Aldosivi",
+              "played": 22,
+              "points": 18
+            },
+            {
+              "rank": 30,
+              "name": "San Martín (SJ)",
+              "played": 22,
+              "points": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "code": "FRA",
+      "leagues": [
+        {
+          "name": "Ligue 1 McDonald’s",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "Paris Saint-Germain",
+              "played": 3,
+              "points": 9
+            },
+            {
+              "rank": 2,
+              "name": "Lille",
+              "played": 3,
+              "points": 7
+            },
+            {
+              "rank": 3,
+              "name": "Lyon",
+              "played": 2,
+              "points": 6
+            },
+            {
+              "rank": 4,
+              "name": "Lens",
+              "played": 3,
+              "points": 6
+            },
+            {
+              "rank": 5,
+              "name": "Strasbourg",
+              "played": 2,
+              "points": 6
+            },
+            {
+              "rank": 6,
+              "name": "Toulouse",
+              "played": 3,
+              "points": 6
+            },
+            {
+              "rank": 7,
+              "name": "Marseille",
+              "played": 2,
+              "points": 3
+            },
+            {
+              "rank": 8,
+              "name": "Monaco",
+              "played": 2,
+              "points": 3
+            },
+            {
+              "rank": 9,
+              "name": "Nice",
+              "played": 2,
+              "points": 3
+            },
+            {
+              "rank": 10,
+              "name": "Angers",
+              "played": 2,
+              "points": 3
+            },
+            {
+              "rank": 11,
+              "name": "Nantes",
+              "played": 3,
+              "points": 3
+            },
+            {
+              "rank": 12,
+              "name": "Auxerre",
+              "played": 3,
+              "points": 3
+            },
+            {
+              "rank": 14,
+              "name": "Rennes",
+              "played": 2,
+              "points": 3
+            },
+            {
+              "rank": 15,
+              "name": "Brest",
+              "played": 3,
+              "points": 1
+            },
+            {
+              "rank": 16,
+              "name": "Le Havre",
+              "played": 2,
+              "points": 0
+            },
+            {
+              "rank": 17,
+              "name": "Paris FC",
+              "played": 2,
+              "points": 0
+            },
+            {
+              "rank": 18,
+              "name": "Metz",
+              "played": 2,
+              "points": 0
+            }
+          ]
+        },
+        {
+          "name": "Ligue 2 BKT",
+          "gender": "men",
+          "teams": [
+            {
+              "rank": 1,
+              "name": "AS Saint-Étienne",
+              "played": 4,
+              "points": 8
+            },
+            {
+              "rank": 2,
+              "name": "Pau FC",
+              "played": 4,
+              "points": 8
+            },
+            {
+              "rank": 3,
+              "name": "AS Nancy Lorraine",
+              "played": 4,
+              "points": 8
+            },
+            {
+              "rank": 4,
+              "name": "Red Star F.C.",
+              "played": 4,
+              "points": 7
+            },
+            {
+              "rank": 5,
+              "name": "Stade de Reims",
+              "played": 4,
+              "points": 7
+            },
+            {
+              "rank": 6,
+              "name": "ES Troyes AC",
+              "played": 4,
+              "points": 7
+            },
+            {
+              "rank": 7,
+              "name": "Clermont Foot 63",
+              "played": 4,
+              "points": 6
+            },
+            {
+              "rank": 8,
+              "name": "Amiens SC",
+              "played": 4,
+              "points": 5
+            },
+            {
+              "rank": 9,
+              "name": "USL Dunkerque",
+              "played": 4,
+              "points": 5
+            },
+            {
+              "rank": 10,
+              "name": "Montpellier Hérault SC",
+              "played": 4,
+              "points": 5
+            },
+            {
+              "rank": 11,
+              "name": "Rodez AF",
+              "played": 4,
+              "points": 5
+            },
+            {
+              "rank": 12,
+              "name": "Stade Lavallois",
+              "played": 4,
+              "points": 4
+            },
+            {
+              "rank": 13,
+              "name": "Le Mans FC",
+              "played": 4,
+              "points": 4
+            },
+            {
+              "rank": 14,
+              "name": "FC Annecy",
+              "played": 4,
+              "points": 4
+            },
+            {
+              "rank": 15,
+              "name": "En Avant Guingamp",
+              "played": 4,
+              "points": 4
+            },
+            {
+              "rank": 16,
+              "name": "Grenoble Foot 38",
+              "played": 4,
+              "points": 2
+            },
+            {
+              "rank": 17,
+              "name": "SC Bastia",
+              "played": 3,
+              "points": 1
+            },
+            {
+              "rank": 18,
+              "name": "US Boulogne CO",
+              "played": 3,
+              "points": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

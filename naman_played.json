@@ -1,0 +1,2361 @@
+[
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "FC Groningen",
+    "points": 39,
+    "rank": 13
+  },
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "AZ Alkmaar",
+    "points": 57,
+    "rank": 5
+  },
+  {
+    "country": "Norway",
+    "league": "Eliteserien",
+    "teamName": "Rosenborg BK",
+    "points": 30,
+    "rank": 5
+  },
+  {
+    "country": "Belgium",
+    "league": "Pro League",
+    "teamName": "Kortrijk",
+    "points": 37,
+    "rank": 15
+  },
+  {
+    "country": "Spain",
+    "league": "LaLiga Hypermotion",
+    "teamName": "CD Tenerife",
+    "points": 71,
+    "rank": 11
+  },
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "FC Utrecht",
+    "points": 64,
+    "rank": 4
+  },
+  {
+    "country": "Romania",
+    "league": "Superliga (Liga I)",
+    "teamName": "CS Universitatea Craiova",
+    "points": 19,
+    "rank": 1
+  },
+  {
+    "country": "India",
+    "league": "Indian Super League",
+    "teamName": "Bengaluru FC",
+    "points": 0,
+    "rank": 1
+  },
+  {
+    "country": "Germany",
+    "league": "3. Liga",
+    "teamName": "MSV Duisburg",
+    "points": 58,
+    "rank": 7
+  },
+  {
+    "country": "England",
+    "league": "EFL Championship",
+    "teamName": "Burnley",
+    "points": 51,
+    "rank": 3
+  },
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "Go Ahead Eagles",
+    "points": 51,
+    "rank": 7
+  },
+  {
+    "country": "Turkey",
+    "league": "Süper Lig",
+    "teamName": "Galatasaray S.K.",
+    "points": 12,
+    "rank": 1
+  },
+  {
+    "country": "Switzerland",
+    "league": "EFL League Two",
+    "teamName": "Barrow",
+    "points": 54,
+    "rank": 20
+  },
+  {
+    "country": "Argentina",
+    "league": "Liga Profesional de Fútbol",
+    "teamName": "Newell's Old Boys",
+    "points": 25,
+    "rank": 20
+  },
+  {
+    "country": "Germany",
+    "league": "3. Liga",
+    "teamName": "Hansa Rostock",
+    "points": 60,
+    "rank": 5
+  },
+  {
+    "country": "Argentina",
+    "league": "Liga Profesional de Fútbol",
+    "teamName": "Independiente Rivadavia",
+    "points": 35,
+    "rank": 9
+  },
+  {
+    "country": "England",
+    "league": "EFL Championship",
+    "teamName": "Blackburn Rovers",
+    "points": 32,
+    "rank": 18
+  },
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "NEC Nijmegen",
+    "points": 43,
+    "rank": 8
+  },
+  {
+    "country": "Spain",
+    "league": "LaLiga EA SPORTS",
+    "teamName": "Athletic Club",
+    "points": 70,
+    "rank": 4
+  },
+  {
+    "country": "Turkey",
+    "league": "Süper Lig",
+    "teamName": "Konyaspor",
+    "points": 7,
+    "rank": 4
+  },
+  {
+    "country": "Scotland",
+    "league": "Cinch Premiership",
+    "teamName": "Motherwell FC",
+    "points": 49,
+    "rank": 8
+  },
+  {
+    "country": "Australia",
+    "league": "A-League Men",
+    "teamName": "Auckland FC",
+    "points": 53,
+    "rank": 1
+  },
+  {
+    "country": "Denmark",
+    "league": "3F Superliga",
+    "teamName": "Vejle Boldklub",
+    "points": 32,
+    "rank": 10
+  },
+  {
+    "country": "Scotland",
+    "league": "Cinch Premiership",
+    "teamName": "St Mirren FC",
+    "points": 50,
+    "rank": 6
+  },
+  {
+    "country": "South Korea",
+    "league": "K League 1",
+    "teamName": "Jeju United",
+    "points": 31,
+    "rank": 10
+  },
+  {
+    "country": "Norway",
+    "league": "Eliteserien",
+    "teamName": "Sarpsborg 08 FF",
+    "points": 22,
+    "rank": 12
+  },
+  {
+    "country": "Switzerland",
+    "league": "Credit Suisse Super League",
+    "teamName": "FC Sion",
+    "points": 7,
+    "rank": 4
+  },
+  {
+    "country": "Saudi Arabia",
+    "league": "Roshn Saudi League",
+    "teamName": "Al-Fayha FC",
+    "points": 3,
+    "rank": 7
+  },
+  {
+    "country": "England",
+    "league": "EFL Championship",
+    "teamName": "Huddersfield Town",
+    "points": 27,
+    "rank": 23
+  },
+  {
+    "country": "Spain",
+    "league": "LaLiga EA SPORTS",
+    "teamName": "Almería",
+    "points": 47,
+    "rank": 13
+  },
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "Feyenoord",
+    "points": 68,
+    "rank": 3
+  },
+  {
+    "country": "France",
+    "league": "Ligue 1 McDonald’s",
+    "teamName": "Le Havre",
+    "points": 0,
+    "rank": 16
+  },
+  {
+    "country": "Germany",
+    "league": "Bundesliga",
+    "teamName": "Eintracht Frankfurt",
+    "points": 60,
+    "rank": 3
+  },
+  {
+    "country": "Australia",
+    "league": "A-League Men",
+    "teamName": "Western Sydney Wanderers FC",
+    "points": 46,
+    "rank": 4
+  },
+  {
+    "country": "Denmark",
+    "league": "3F Superliga",
+    "teamName": "Viborg FF",
+    "points": 38,
+    "rank": 8
+  },
+  {
+    "country": "Saudi Arabia",
+    "league": "Roshn Saudi League",
+    "teamName": "NEOM SC",
+    "points": 0,
+    "rank": 13
+  },
+  {
+    "country": "South Korea",
+    "league": "K League 1",
+    "teamName": "Daejeon Hana Citizen",
+    "points": 42,
+    "rank": 4
+  },
+  {
+    "country": "Denmark",
+    "league": "3F Superliga",
+    "teamName": "Aarhus Gymnastikforening",
+    "points": 40,
+    "rank": 6
+  },
+  {
+    "country": "Germany",
+    "league": "Bundesliga",
+    "teamName": "Holstein Kiel",
+    "points": 25,
+    "rank": 17
+  },
+  {
+    "country": "Argentina",
+    "league": "Liga Profesional de Fútbol",
+    "teamName": "Central Córdoba",
+    "points": 31,
+    "rank": 14
+  },
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "Almere City FC",
+    "points": 22,
+    "rank": 18
+  },
+  {
+    "country": "France",
+    "league": "Ligue 1 McDonald’s",
+    "teamName": "Brest",
+    "points": 1,
+    "rank": 15
+  },
+  {
+    "country": "China",
+    "league": "Chinese Super League",
+    "teamName": "Meizhou Hakka F.C.",
+    "points": 17,
+    "rank": 13
+  },
+  {
+    "country": "Portugal",
+    "league": "Liga Portugal",
+    "teamName": "Farense",
+    "points": 37,
+    "rank": 10
+  },
+  {
+    "country": "Australia",
+    "league": "A-League Men",
+    "teamName": "Melbourne City FC",
+    "points": 48,
+    "rank": 2
+  },
+  {
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "teamName": "Lechia Gdańsk",
+    "points": 0,
+    "rank": 18
+  },
+  {
+    "country": "USA & Canada",
+    "league": "Major League Soccer",
+    "teamName": "CF Montréal",
+    "points": 38,
+    "rank": 14
+  },
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "Fortuna Sittard",
+    "points": 41,
+    "rank": 11
+  },
+  {
+    "country": "Scotland",
+    "league": "Cinch Premiership",
+    "teamName": "Aberdeen FC",
+    "points": 53,
+    "rank": 5
+  },
+  {
+    "country": "China",
+    "league": "Chinese Super League",
+    "teamName": "Beijing Guoan F.C.",
+    "points": 48,
+    "rank": 3
+  },
+  {
+    "country": "Republic of Ireland",
+    "league": "EFL League One",
+    "teamName": "Burton Albion",
+    "points": 44,
+    "rank": 4
+  },
+  {
+    "country": "Norway",
+    "league": "Eliteserien",
+    "teamName": "SK Brann",
+    "points": 36,
+    "rank": 3
+  },
+  {
+    "country": "USA & Canada",
+    "league": "Major League Soccer",
+    "teamName": "FC Cincinnati",
+    "points": 62,
+    "rank": 3
+  },
+  {
+    "country": "USA & Canada",
+    "league": "Major League Soccer",
+    "teamName": "Columbus Crew",
+    "points": 52,
+    "rank": 7
+  },
+  {
+    "country": "South Korea",
+    "league": "K League 1",
+    "teamName": "FC Anyang",
+    "points": 30,
+    "rank": 11
+  },
+  {
+    "country": "Germany",
+    "league": "3. Liga",
+    "teamName": "Hallescher FC",
+    "points": 52,
+    "rank": 13
+  },
+  {
+    "country": "Denmark",
+    "league": "3F Superliga",
+    "teamName": "FC Midtjylland",
+    "points": 62,
+    "rank": 2
+  },
+  {
+    "country": "Germany",
+    "league": "Bundesliga",
+    "teamName": "1. FC Köln",
+    "points": 41,
+    "rank": 14
+  },
+  {
+    "country": "Romania",
+    "league": "Superliga (Liga I)",
+    "teamName": "FC UTA Arad",
+    "points": 13,
+    "rank": 4
+  },
+  {
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "teamName": "Lech Poznań",
+    "points": 7,
+    "rank": 12
+  },
+  {
+    "country": "Australia",
+    "league": "A-League Men",
+    "teamName": "Perth Glory FC",
+    "points": 17,
+    "rank": 13
+  },
+  {
+    "country": "Saudi Arabia",
+    "league": "Roshn Saudi League",
+    "teamName": "Al-Ahli Saudi FC",
+    "points": 3,
+    "rank": 8
+  },
+  {
+    "country": "Belgium",
+    "league": "Pro League",
+    "teamName": "Standard Liège",
+    "points": 27,
+    "rank": 11
+  },
+  {
+    "country": "Romania",
+    "league": "Superliga (Liga I)",
+    "teamName": "FCSB",
+    "points": 5,
+    "rank": 13
+  },
+  {
+    "country": "Austria",
+    "league": "Admiral Bundesliga",
+    "teamName": "SK Austria Klagenfurt",
+    "points": 16,
+    "rank": 12
+  },
+  {
+    "country": "Austria",
+    "league": "Admiral Bundesliga",
+    "teamName": "Grazer AK",
+    "points": 20,
+    "rank": 10
+  },
+  {
+    "country": "Romania",
+    "league": "Superliga (Liga I)",
+    "teamName": "FC Petrolul Ploiești",
+    "points": 6,
+    "rank": 12
+  },
+  {
+    "country": "Turkey",
+    "league": "Süper Lig",
+    "teamName": "Gençlerbirliği S.K.",
+    "points": 0,
+    "rank": 18
+  },
+  {
+    "country": "Rest Of The World B3",
+    "league": "Rest Of The World B3",
+    "teamName": "Soccer Aid",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Italy",
+    "league": "Serie A TIM",
+    "teamName": "Empoli",
+    "points": 56,
+    "rank": 11
+  },
+  {
+    "country": "Australia",
+    "league": "A-League Men",
+    "teamName": "Adelaide United FC",
+    "points": 38,
+    "rank": 6
+  },
+  {
+    "country": "Italy",
+    "league": "Serie BKT",
+    "teamName": "Lecco",
+    "points": 64,
+    "rank": 18
+  },
+  {
+    "country": "International",
+    "league": "ITNTNL ",
+    "teamName": "Norway",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Australia",
+    "league": "A-League Men",
+    "teamName": "Newcastle Jets FC",
+    "points": 30,
+    "rank": 9
+  },
+  {
+    "country": "South Korea",
+    "league": "K League 1",
+    "teamName": "Ulsan HD FC",
+    "points": 34,
+    "rank": 8
+  },
+  {
+    "country": "Turkey",
+    "league": "Süper Lig",
+    "teamName": "Alanyaspor",
+    "points": 1,
+    "rank": 14
+  },
+  {
+    "country": "Denmark",
+    "league": "3F Superliga",
+    "teamName": "SønderjyskE Fodbold",
+    "points": 33,
+    "rank": 9
+  },
+  {
+    "country": "International",
+    "league": "ITNTNL ",
+    "teamName": "Denmark",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Germany",
+    "league": "3. Liga",
+    "teamName": "Wehen Wiesbaden",
+    "points": 49,
+    "rank": 16
+  },
+  {
+    "country": "Norway",
+    "league": "Eliteserien",
+    "teamName": "Sandefjord Fotball",
+    "points": 28,
+    "rank": 7
+  },
+  {
+    "country": "Argentina",
+    "league": "Liga Profesional de Fútbol",
+    "teamName": "Tigre",
+    "points": 35,
+    "rank": 8
+  },
+  {
+    "country": "Rest Of The World B3",
+    "league": "Rest Of The World B3",
+    "teamName": "Zlatan FC",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Romania",
+    "league": "Superliga (Liga I)",
+    "teamName": "FC Universitatea Cluj",
+    "points": 12,
+    "rank": 6
+  },
+  {
+    "country": "Spain",
+    "league": "LaLiga EA SPORTS",
+    "teamName": "Granada CF",
+    "points": 45,
+    "rank": 15
+  },
+  {
+    "country": "Switzerland",
+    "league": "Credit Suisse Super League",
+    "teamName": "FC St. Gallen",
+    "points": 9,
+    "rank": 2
+  },
+  {
+    "country": "Germany",
+    "league": "2. Bundesliga",
+    "teamName": "Preußen Münster",
+    "points": 50,
+    "rank": 9
+  },
+  {
+    "country": "China",
+    "league": "Chinese Super League",
+    "teamName": "Dalian Yingbo F.C.",
+    "points": 29,
+    "rank": 9
+  },
+  {
+    "country": "Scotland",
+    "league": "Cinch Premiership",
+    "teamName": "St Johnstone FC",
+    "points": 32,
+    "rank": 12
+  },
+  {
+    "country": "Portugal",
+    "league": "Liga Portugal",
+    "teamName": "Arouca",
+    "points": 47,
+    "rank": 7
+  },
+  {
+    "country": "Scotland",
+    "league": "Cinch Premiership",
+    "teamName": "Hibernian FC",
+    "points": 58,
+    "rank": 3
+  },
+  {
+    "country": "South Korea",
+    "league": "K League 1",
+    "teamName": "Jeonbuk Hyundai Motors",
+    "points": 63,
+    "rank": 1
+  },
+  {
+    "country": "Saudi Arabia",
+    "league": "Roshn Saudi League",
+    "teamName": "Damac FC",
+    "points": 1,
+    "rank": 9
+  },
+  {
+    "country": "Switzerland",
+    "league": "Credit Suisse Super League",
+    "teamName": "FC Winterthur",
+    "points": 2,
+    "rank": 11
+  },
+  {
+    "country": "Scotland",
+    "league": "Cinch Premiership",
+    "teamName": "Dundee FC",
+    "points": 41,
+    "rank": 10
+  },
+  {
+    "country": "India",
+    "league": "Indian Super League",
+    "teamName": "FC Goa",
+    "points": 0,
+    "rank": 4
+  },
+  {
+    "country": "Argentina",
+    "league": "Liga Profesional de Fútbol",
+    "teamName": "Talleres",
+    "points": 18,
+    "rank": 28
+  },
+  {
+    "country": "Australia",
+    "league": "A-League Men",
+    "teamName": "Sydney FC",
+    "points": 37,
+    "rank": 7
+  },
+  {
+    "country": "International",
+    "league": "ITNTNL ",
+    "teamName": "Irelad",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "teamName": "Jagiellonia Białystok",
+    "points": 9,
+    "rank": 5
+  },
+  {
+    "country": "Norway",
+    "league": "Eliteserien",
+    "teamName": "Fredrikstad FK",
+    "points": 26,
+    "rank": 10
+  },
+  {
+    "country": "Argentina",
+    "league": "Liga Profesional de Fútbol",
+    "teamName": "Platense",
+    "points": 29,
+    "rank": 16
+  },
+  {
+    "country": "Republic of Ireland",
+    "league": "EFL League One",
+    "teamName": "Bristol Rovers",
+    "points": 46,
+    "rank": 3
+  },
+  {
+    "country": "Republic of Ireland",
+    "league": "EFL Championship",
+    "teamName": "Birmingham City",
+    "points": 33,
+    "rank": 17
+  },
+  {
+    "country": "Rest Of The World",
+    "league": "Rest Of The World",
+    "teamName": "Orlando Pirates",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Spain",
+    "league": "LaLiga EA SPORTS",
+    "teamName": "Mallorca",
+    "points": 44,
+    "rank": 16
+  },
+  {
+    "country": "India",
+    "league": "Indian Super League",
+    "teamName": "Kerala Blasters FC",
+    "points": 0,
+    "rank": 8
+  },
+  {
+    "country": "Romania",
+    "league": "Superliga (Liga I)",
+    "teamName": "FC Rapid București",
+    "points": 18,
+    "rank": 2
+  },
+  {
+    "country": "Portugal",
+    "league": "Liga Portugal",
+    "teamName": "Boavista",
+    "points": 32,
+    "rank": 14
+  },
+  {
+    "country": "Belgium",
+    "league": "Pro League",
+    "teamName": "Club Brugge",
+    "points": 53,
+    "rank": 2
+  },
+  {
+    "country": "Rest Of The World B3",
+    "league": "Rest Of The World B3",
+    "teamName": "Classic XI",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Germany",
+    "league": "2. Bundesliga",
+    "teamName": "Magdeburg",
+    "points": 54,
+    "rank": 5
+  },
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "Heracles Almelo",
+    "points": 38,
+    "rank": 14
+  },
+  {
+    "country": "China",
+    "league": "Chinese Super League",
+    "teamName": "Chengdu Rongcheng F.C.",
+    "points": 50,
+    "rank": 1
+  },
+  {
+    "country": "Belgium",
+    "league": "Pro League",
+    "teamName": "Genk",
+    "points": 47,
+    "rank": 3
+  },
+  {
+    "country": "Norway",
+    "league": "Eliteserien",
+    "teamName": "Tromsø IL",
+    "points": 33,
+    "rank": 4
+  },
+  {
+    "country": "Republic of Ireland",
+    "league": "SSE AIRTRICITY PD",
+    "teamName": "Cork City FC",
+    "points": 22,
+    "rank": 10
+  },
+  {
+    "country": "Belgium",
+    "league": "Pro League",
+    "teamName": "Beerschot",
+    "points": 24,
+    "rank": 16
+  },
+  {
+    "country": "Austria",
+    "league": "Admiral Bundesliga",
+    "teamName": "LASK",
+    "points": 38,
+    "rank": 7
+  },
+  {
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "teamName": "Górnik Zabrze",
+    "points": 12,
+    "rank": 2
+  },
+  {
+    "country": "Sweden",
+    "league": "Allsvenskan",
+    "teamName": "AIK Fotboll",
+    "points": 37,
+    "rank": 5
+  },
+  {
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "teamName": "Raków Częstochowa",
+    "points": 6,
+    "rank": 16
+  },
+  {
+    "country": "Switzerland",
+    "league": "Credit Suisse Super League",
+    "teamName": "Grasshopper Club Zurich",
+    "points": 3,
+    "rank": 9
+  },
+  {
+    "country": "South Korea",
+    "league": "K League 1",
+    "teamName": "Gwangju FC",
+    "points": 38,
+    "rank": 6
+  },
+  {
+    "country": "USA & Canada",
+    "league": "Major League Soccer",
+    "teamName": "San Jose Earthquakes",
+    "points": 35,
+    "rank": 26
+  },
+  {
+    "country": "Sweden",
+    "league": "Allsvenskan",
+    "teamName": "GAIS",
+    "points": 35,
+    "rank": 7
+  },
+  {
+    "country": "Italy",
+    "league": "Serie A TIM",
+    "teamName": "Fiorentina",
+    "points": 65,
+    "rank": 6
+  },
+  {
+    "country": "England",
+    "league": "EFL League Two",
+    "teamName": "Tranmere Rovers",
+    "points": 67,
+    "rank": 9
+  },
+  {
+    "country": "Scotland",
+    "league": "Cinch Premiership",
+    "teamName": "Ross County FC",
+    "points": 37,
+    "rank": 11
+  },
+  {
+    "country": "Portugal",
+    "league": "Liga Portugal",
+    "teamName": "Benfica",
+    "points": 80,
+    "rank": 2
+  },
+  {
+    "country": "Sweden",
+    "league": "Allsvenskan",
+    "teamName": "Djurgårdens IF",
+    "points": 31,
+    "rank": 8
+  },
+  {
+    "country": "Rest Of The World",
+    "league": "Rest Of The World",
+    "teamName": "APOEL FC",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Germany",
+    "league": "2. Bundesliga",
+    "teamName": "SV Darmstadt 98",
+    "points": 51,
+    "rank": 8
+  },
+  {
+    "country": "Sweden",
+    "league": "Allsvenskan",
+    "teamName": "IF Brommapojkarna",
+    "points": 26,
+    "rank": 9
+  },
+  {
+    "country": "Australia",
+    "league": "A-League Men",
+    "teamName": "Melbourne Victory FC",
+    "points": 43,
+    "rank": 5
+  },
+  {
+    "country": "Germany",
+    "league": "Bundesliga",
+    "teamName": "Werder Bremen",
+    "points": 51,
+    "rank": 8
+  },
+  {
+    "country": "Belgium",
+    "league": "Pro League",
+    "teamName": "Gent",
+    "points": 26,
+    "rank": 6
+  },
+  {
+    "country": "Denmark",
+    "league": "3F Superliga",
+    "teamName": "Silkeborg IF",
+    "points": 39,
+    "rank": 7
+  },
+  {
+    "country": "Portugal",
+    "league": "Liga Portugal",
+    "teamName": "Estrela da Amadora",
+    "points": 33,
+    "rank": 15
+  },
+  {
+    "country": "Argentina",
+    "league": "Liga Profesional de Fútbol",
+    "teamName": "Instituto",
+    "points": 24,
+    "rank": 23
+  },
+  {
+    "country": "France",
+    "league": "Ligue 2 BKT",
+    "teamName": "Stade de Reims",
+    "points": 7,
+    "rank": 5
+  },
+  {
+    "country": "Italy",
+    "league": "Serie A TIM",
+    "teamName": "Juventus",
+    "points": 70,
+    "rank": 4
+  },
+  {
+    "country": "Romania",
+    "league": "Superliga (Liga I)",
+    "teamName": "FC Argeș Pitești",
+    "points": 12,
+    "rank": 7
+  },
+  {
+    "country": "Saudi Arabia",
+    "league": "Roshn Saudi League",
+    "teamName": "Al-Riyadh SC",
+    "points": 0,
+    "rank": 15
+  },
+  {
+    "country": "Portugal",
+    "league": "Liga Portugal",
+    "teamName": "Porto",
+    "points": 69,
+    "rank": 3
+  },
+  {
+    "country": "Portugal",
+    "league": "Liga Portugal",
+    "teamName": "Gil Vicente",
+    "points": 36,
+    "rank": 12
+  },
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "Willem II",
+    "points": 26,
+    "rank": 16
+  },
+  {
+    "country": "Norway",
+    "league": "Eliteserien",
+    "teamName": "Molde FK",
+    "points": 27,
+    "rank": 9
+  },
+  {
+    "country": "Australia",
+    "league": "A-League Men",
+    "teamName": "Western United FC",
+    "points": 47,
+    "rank": 3
+  },
+  {
+    "country": "India",
+    "league": "Indian Super League",
+    "teamName": "Jamshedpur FC",
+    "points": 0,
+    "rank": 7
+  },
+  {
+    "country": "USA & Canada",
+    "league": "Major League Soccer",
+    "teamName": "Real Salt Lake",
+    "points": 56,
+    "rank": 18
+  },
+  {
+    "country": "India",
+    "league": "Indian Super League",
+    "teamName": "Mumbai City FC",
+    "points": 0,
+    "rank": 11
+  },
+  {
+    "country": "USA & Canada",
+    "league": "Major League Soccer",
+    "teamName": "Chicago Fire FC",
+    "points": 36,
+    "rank": 15
+  },
+  {
+    "country": "Turkey",
+    "league": "Süper Lig",
+    "teamName": "Antalyaspor",
+    "points": 6,
+    "rank": 6
+  },
+  {
+    "country": "India",
+    "league": "Indian Super League",
+    "teamName": "Punjab FC",
+    "points": 0,
+    "rank": 14
+  },
+  {
+    "country": "Rest Of The World",
+    "league": "Rest Of The World",
+    "teamName": "Hajduk Split",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Saudi Arabia",
+    "league": "Roshn Saudi League",
+    "teamName": "Al-Taawoun FC",
+    "points": 0,
+    "rank": 18
+  },
+  {
+    "country": "Sweden",
+    "league": "Allsvenskan",
+    "teamName": "IF Elfsborg",
+    "points": 36,
+    "rank": 6
+  },
+  {
+    "country": "Spain",
+    "league": "LaLiga EA SPORTS",
+    "teamName": "Villarreal",
+    "points": 70,
+    "rank": 5
+  },
+  {
+    "country": "Argentina",
+    "league": "Liga Profesional de Fútbol",
+    "teamName": "Deportivo Riestra",
+    "points": 34,
+    "rank": 10
+  },
+  {
+    "country": "Denmark",
+    "league": "3F Superliga",
+    "teamName": "Brøndby IF",
+    "points": 51,
+    "rank": 3
+  },
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "Ajax",
+    "points": 78,
+    "rank": 2
+  },
+  {
+    "country": "Portugal",
+    "league": "Liga Portugal",
+    "teamName": "Vitória de Guimarães",
+    "points": 63,
+    "rank": 5
+  },
+  {
+    "country": "Spain",
+    "league": "LaLiga Hypermotion",
+    "teamName": "Real Zaragoza",
+    "points": 76,
+    "rank": 6
+  },
+  {
+    "country": "Switzerland",
+    "league": "Credit Suisse Super League",
+    "teamName": "FC Lugano",
+    "points": 3,
+    "rank": 10
+  },
+  {
+    "country": "Switzerland",
+    "league": "Credit Suisse Super League",
+    "teamName": "BSC Young Boys",
+    "points": 5,
+    "rank": 7
+  },
+  {
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "teamName": "Korona Kielce",
+    "points": 11,
+    "rank": 4
+  },
+  {
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "teamName": "Zagłębie Lubin",
+    "points": 6,
+    "rank": 15
+  },
+  {
+    "country": "Rest Of The World",
+    "league": "Rest Of The World",
+    "teamName": "HJK Helsinki ",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Germany",
+    "league": "Bundesliga",
+    "teamName": "Bayer Leverkusen",
+    "points": 69,
+    "rank": 2
+  },
+  {
+    "country": "Switzerland",
+    "league": "Credit Suisse Super League",
+    "teamName": "Servette FC",
+    "points": 1,
+    "rank": 12
+  },
+  {
+    "country": "Spain",
+    "league": "LaLiga Hypermotion",
+    "teamName": "CD Mirandés",
+    "points": 80,
+    "rank": 2
+  },
+  {
+    "country": "Austria",
+    "league": "Admiral Bundesliga",
+    "teamName": "Rheindorf Altach",
+    "points": 18,
+    "rank": 11
+  },
+  {
+    "country": "Argentina",
+    "league": "Liga Profesional de Fútbol",
+    "teamName": "Sarmiento",
+    "points": 21,
+    "rank": 26
+  },
+  {
+    "country": "Denmark",
+    "league": "3F Superliga",
+    "teamName": "FC Nordsjælland",
+    "points": 46,
+    "rank": 5
+  },
+  {
+    "country": "Turkey",
+    "league": "Süper Lig",
+    "teamName": "Gaziantep F.K.",
+    "points": 6,
+    "rank": 7
+  },
+  {
+    "country": "International",
+    "league": "ITNTNL ",
+    "teamName": "Italy",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "China",
+    "league": "Chinese Super League",
+    "teamName": "Shenzhen Peng City F.C.",
+    "points": 17,
+    "rank": 14
+  },
+  {
+    "country": "Australia",
+    "league": "A-League Men",
+    "teamName": "Wellington Phoenix FC",
+    "points": 24,
+    "rank": 11
+  },
+  {
+    "country": "International",
+    "league": "ITNTNL ",
+    "teamName": "Wales",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Norway",
+    "league": "Eliteserien",
+    "teamName": "Hamarkameratene",
+    "points": 21,
+    "rank": 13
+  },
+  {
+    "country": "Republic of Ireland",
+    "league": "SSE AIRTRICITY PD",
+    "teamName": "Bohemian F.C.",
+    "points": 47,
+    "rank": 2
+  },
+  {
+    "country": "Turkey",
+    "league": "Süper Lig",
+    "teamName": "Fenerbahçe SK",
+    "points": 4,
+    "rank": 8
+  },
+  {
+    "country": "Italy",
+    "league": "Serie A TIM",
+    "teamName": "AC Milan",
+    "points": 61,
+    "rank": 8
+  },
+  {
+    "country": "Spain",
+    "league": "LaLiga Hypermotion",
+    "teamName": "Real Sporting de Gijón",
+    "points": 72,
+    "rank": 10
+  },
+  {
+    "country": "USA & Canada",
+    "league": "Major League Soccer",
+    "teamName": "Philadelphia Union",
+    "points": 55,
+    "rank": 5
+  },
+  {
+    "country": "Romania",
+    "league": "Superliga (Liga I)",
+    "teamName": "FCV Farul Constanța",
+    "points": 10,
+    "rank": 9
+  },
+  {
+    "country": "India",
+    "league": "Indian Super League",
+    "teamName": "Odisha FC",
+    "points": 0,
+    "rank": 13
+  },
+  {
+    "country": "Scotland",
+    "league": "Cinch Premiership",
+    "teamName": "Kilmarnock FC",
+    "points": 44,
+    "rank": 9
+  },
+  {
+    "country": "USA & Canada",
+    "league": "Major League Soccer",
+    "teamName": "Minnesota United FC",
+    "points": 47,
+    "rank": 22
+  },
+  {
+    "country": "China",
+    "league": "Chinese Super League",
+    "teamName": "Qingdao West Coast F.C.",
+    "points": 27,
+    "rank": 10
+  },
+  {
+    "country": "Denmark",
+    "league": "3F Superliga",
+    "teamName": "Kobenhvn",
+    "points": 63,
+    "rank": 1
+  },
+  {
+    "country": "Turkey",
+    "league": "Süper Lig",
+    "teamName": "Göztepe S.K.",
+    "points": 8,
+    "rank": 3
+  },
+  {
+    "country": "South Korea",
+    "league": "K League 1",
+    "teamName": "Gangwon FC",
+    "points": 35,
+    "rank": 7
+  },
+  {
+    "country": "International",
+    "league": "ITNTNL ",
+    "teamName": "Finland",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Romania",
+    "league": "Superliga (Liga I)",
+    "teamName": "FC Metaloglobus București",
+    "points": 1,
+    "rank": 15
+  },
+  {
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "teamName": "Bruk-Bet Termalica Nieciecza",
+    "points": 8,
+    "rank": 7
+  },
+  {
+    "country": "Sweden",
+    "league": "Allsvenskan",
+    "teamName": "Mjällby AIF",
+    "points": 53,
+    "rank": 1
+  },
+  {
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "teamName": "KS Cracovia",
+    "points": 11,
+    "rank": 3
+  },
+  {
+    "country": "USA & Canada",
+    "league": "Major League Soccer",
+    "teamName": "Houston Dynamo FC",
+    "points": 47,
+    "rank": 21
+  },
+  {
+    "country": "South Korea",
+    "league": "K League 1",
+    "teamName": "Daegu FC",
+    "points": 19,
+    "rank": 12
+  },
+  {
+    "country": "Germany",
+    "league": "2. Bundesliga",
+    "teamName": "SV Elversberg",
+    "points": 58,
+    "rank": 3
+  },
+  {
+    "country": "Turkey",
+    "league": "Süper Lig",
+    "teamName": "Kasımpaşa S.K.",
+    "points": 0,
+    "rank": 17
+  },
+  {
+    "country": "Republic of Ireland",
+    "league": "SSE AIRTRICITY PD",
+    "teamName": "Shamrock Rovers F.C.",
+    "points": 53,
+    "rank": 1
+  },
+  {
+    "country": "France",
+    "league": "Ligue 2 BKT",
+    "teamName": "ES Troyes AC",
+    "points": 7,
+    "rank": 6
+  },
+  {
+    "country": "Republic of Ireland",
+    "league": "SSE AIRTRICITY PD",
+    "teamName": "Shelbourne F.C.",
+    "points": 39,
+    "rank": 6
+  },
+  {
+    "country": "England",
+    "league": "EFL League Two",
+    "teamName": "Swindon Town",
+    "points": 72,
+    "rank": 6
+  },
+  {
+    "country": "Romania",
+    "league": "Superliga (Liga I)",
+    "teamName": "FK Csíkszereda Miercurea Ciuc",
+    "points": 1,
+    "rank": 16
+  },
+  {
+    "country": "Saudi Arabia",
+    "league": "Roshn Saudi League",
+    "teamName": "Al-Ittihad Club",
+    "points": 3,
+    "rank": 2
+  },
+  {
+    "country": "Rest Of The World",
+    "league": "Rest Of The World",
+    "teamName": "Shakhtar Donetsk",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Turkey",
+    "league": "Süper Lig",
+    "teamName": "Beşiktaş J.K.",
+    "points": 3,
+    "rank": 9
+  },
+  {
+    "country": "Austria",
+    "league": "Admiral Bundesliga",
+    "teamName": "TSV Hartberg",
+    "points": 31,
+    "rank": 8
+  },
+  {
+    "country": "India",
+    "league": "Indian Super League",
+    "teamName": "Chennaiyin FC",
+    "points": 0,
+    "rank": 2
+  },
+  {
+    "country": "England",
+    "league": "EFL Championship",
+    "teamName": "Sheffield United",
+    "points": 52,
+    "rank": 2
+  },
+  {
+    "country": "USA & Canada",
+    "league": "Major League Soccer",
+    "teamName": "Vancouver Whitecaps FC",
+    "points": 46,
+    "rank": 23
+  },
+  {
+    "country": "Spain",
+    "league": "LaLiga EA SPORTS",
+    "teamName": "Real Sociedad",
+    "points": 54,
+    "rank": 8
+  },
+  {
+    "country": "India",
+    "league": "Indian Super League",
+    "teamName": "Mohammedan SC",
+    "points": 0,
+    "rank": 9
+  },
+  {
+    "country": "China",
+    "league": "Chinese Super League",
+    "teamName": "Henan F.C.",
+    "points": 23,
+    "rank": 11
+  },
+  {
+    "country": "Australia",
+    "league": "A-League Men",
+    "teamName": "Macarthur FC",
+    "points": 33,
+    "rank": 8
+  },
+  {
+    "country": "Republic of Ireland",
+    "league": "SSE AIRTRICITY PD",
+    "teamName": "Waterford FC",
+    "points": 34,
+    "rank": 7
+  },
+  {
+    "country": "Belgium",
+    "league": "Pro League",
+    "teamName": "Union Saint-Gilloise",
+    "points": 56,
+    "rank": 1
+  },
+  {
+    "country": "China",
+    "league": "Chinese Super League",
+    "teamName": "Wuhan Three Towns FC",
+    "points": 21,
+    "rank": 12
+  },
+  {
+    "country": "Switzerland",
+    "league": "Credit Suisse Super League",
+    "teamName": "FC Luzern",
+    "points": 7,
+    "rank": 5
+  },
+  {
+    "country": "USA & Canada",
+    "league": "Major League Soccer",
+    "teamName": "D.C. United",
+    "points": 42,
+    "rank": 10
+  },
+  {
+    "country": "England",
+    "league": "Premier League",
+    "teamName": "Newcastle United",
+    "points": 6,
+    "rank": 7
+  },
+  {
+    "country": "India",
+    "league": "Indian Super League",
+    "teamName": "Mohun Bagan Super Giant",
+    "points": 0,
+    "rank": 10
+  },
+  {
+    "country": "Norway",
+    "league": "Eliteserien",
+    "teamName": "Viking FK",
+    "points": 42,
+    "rank": 2
+  },
+  {
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "teamName": "Radomiak Radom",
+    "points": 8,
+    "rank": 6
+  },
+  {
+    "country": "Turkey",
+    "league": "Süper Lig",
+    "teamName": "Kocaelispor",
+    "points": 1,
+    "rank": 15
+  },
+  {
+    "country": "Saudi Arabia",
+    "league": "Roshn Saudi League",
+    "teamName": "Al Qadsiah FC",
+    "points": 3,
+    "rank": 4
+  },
+  {
+    "country": "Rest Of The World",
+    "league": "Rest Of The World",
+    "teamName": "Kaizer Chiefs",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Rest Of The World",
+    "league": "Rest Of The World",
+    "teamName": "Slavia Praha",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Australia",
+    "league": "A-League Men",
+    "teamName": "Central Coast Mariners FC",
+    "points": 26,
+    "rank": 10
+  },
+  {
+    "country": "Switzerland",
+    "league": "Credit Suisse Super League",
+    "teamName": "FC Basel 1893",
+    "points": 9,
+    "rank": 3
+  },
+  {
+    "country": "Germany",
+    "league": "3. Liga",
+    "teamName": "Alemannia Aachen",
+    "points": 48,
+    "rank": 17
+  },
+  {
+    "country": "Rest Of The World",
+    "league": "Rest Of The World",
+    "teamName": "Dinamo Kiev",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Portugal",
+    "league": "Liga Portugal",
+    "teamName": "Estoril",
+    "points": 35,
+    "rank": 13
+  },
+  {
+    "country": "Germany",
+    "league": "3. Liga",
+    "teamName": "SC Freiburg II",
+    "points": 55,
+    "rank": 10
+  },
+  {
+    "country": "Saudi Arabia",
+    "league": "Roshn Saudi League",
+    "teamName": "Al-Najma SC",
+    "points": 0,
+    "rank": 14
+  },
+  {
+    "country": "Switzerland",
+    "league": "Credit Suisse Super League",
+    "teamName": "FC Lausanne-Sport",
+    "points": 3,
+    "rank": 8
+  },
+  {
+    "country": "Republic of Ireland",
+    "league": "SSE AIRTRICITY PD",
+    "teamName": "Drogheda United F.C.",
+    "points": 42,
+    "rank": 5
+  },
+  {
+    "country": "Sweden",
+    "league": "Allsvenskan",
+    "teamName": "IFK Göteborg",
+    "points": 38,
+    "rank": 3
+  },
+  {
+    "country": "Italy",
+    "league": "Serie A TIM",
+    "teamName": "Sampdoria",
+    "points": 54,
+    "rank": 12
+  },
+  {
+    "country": "Germany",
+    "league": "2. Bundesliga",
+    "teamName": "Dynamo Dresden",
+    "points": 43,
+    "rank": 16
+  },
+  {
+    "country": "Rest Of The World",
+    "league": "Rest Of The World",
+    "teamName": "Sparta Praha",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Sweden",
+    "league": "Allsvenskan",
+    "teamName": "BK Häcken",
+    "points": 26,
+    "rank": 10
+  },
+  {
+    "country": "Saudi Arabia",
+    "league": "Roshn Saudi League",
+    "teamName": "Al-Shabab FC",
+    "points": 0,
+    "rank": 17
+  },
+  {
+    "country": "Republic of Ireland",
+    "league": "SSE AIRTRICITY PD",
+    "teamName": "Derry City F.C.",
+    "points": 46,
+    "rank": 3
+  },
+  {
+    "country": "South Korea",
+    "league": "K League 1",
+    "teamName": "Gimcheon Sangmu FC",
+    "points": 46,
+    "rank": 2
+  },
+  {
+    "country": "Germany",
+    "league": "2. Bundesliga",
+    "teamName": "Braunschweig",
+    "points": 49,
+    "rank": 10
+  },
+  {
+    "country": "Turkey",
+    "league": "Süper Lig",
+    "teamName": "Çaykur Rizespor",
+    "points": 1,
+    "rank": 16
+  },
+  {
+    "country": "Sweden",
+    "league": "Allsvenskan",
+    "teamName": "Malmö FF",
+    "points": 37,
+    "rank": 4
+  },
+  {
+    "country": "South Korea",
+    "league": "K League 1",
+    "teamName": "Pohang Steelers",
+    "points": 44,
+    "rank": 3
+  },
+  {
+    "country": "International",
+    "league": "ITNTNL ",
+    "teamName": "Sweden",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "teamName": "Wisła Płock",
+    "points": 16,
+    "rank": 1
+  },
+  {
+    "country": "International",
+    "league": "ITNTNL ",
+    "teamName": "England",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Belgium",
+    "league": "Pro League",
+    "teamName": "Dender",
+    "points": 29,
+    "rank": 10
+  },
+  {
+    "country": "Belgium",
+    "league": "Pro League",
+    "teamName": "Sint-Truiden",
+    "points": 41,
+    "rank": 13
+  },
+  {
+    "country": "Australia",
+    "league": "A-League Men",
+    "teamName": "Brisbane Roar FC",
+    "points": 21,
+    "rank": 12
+  },
+  {
+    "country": "France",
+    "league": "Ligue 2 BKT",
+    "teamName": "Rodez AF",
+    "points": 5,
+    "rank": 11
+  },
+  {
+    "country": "England",
+    "league": "EFL League One",
+    "teamName": "Bolton Wanderers",
+    "points": 48,
+    "rank": 2
+  },
+  {
+    "country": "Romania",
+    "league": "Superliga (Liga I)",
+    "teamName": "CFR 1907 Cluj",
+    "points": 5,
+    "rank": 14
+  },
+  {
+    "country": "South Korea",
+    "league": "K League 1",
+    "teamName": "FC Seoul",
+    "points": 40,
+    "rank": 5
+  },
+  {
+    "country": "Argentina",
+    "league": "Liga Profesional de Fútbol",
+    "teamName": "Godoy Cruz",
+    "points": 20,
+    "rank": 27
+  },
+  {
+    "country": "Romania",
+    "league": "Superliga (Liga I)",
+    "teamName": "FC Hermannstadt",
+    "points": 7,
+    "rank": 11
+  },
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "Sparta Rotterdam",
+    "points": 39,
+    "rank": 12
+  },
+  {
+    "country": "Sweden",
+    "league": "Allsvenskan",
+    "teamName": "IFK Norrköping",
+    "points": 25,
+    "rank": 11
+  },
+  {
+    "country": "Republic of Ireland",
+    "league": "SSE AIRTRICITY PD",
+    "teamName": "St Patrick's Athletic F.C.",
+    "points": 42,
+    "rank": 4
+  },
+  {
+    "country": "Turkey",
+    "league": "Süper Lig",
+    "teamName": "Eyüpspor",
+    "points": 3,
+    "rank": 10
+  },
+  {
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "teamName": "Legia Warszawa",
+    "points": 7,
+    "rank": 10
+  },
+  {
+    "country": "Switzerland",
+    "league": "Credit Suisse Super League",
+    "teamName": "FC Zürich",
+    "points": 7,
+    "rank": 6
+  },
+  {
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "teamName": "GKS Katowice",
+    "points": 7,
+    "rank": 14
+  },
+  {
+    "country": "Austria",
+    "league": "Admiral Bundesliga",
+    "teamName": "SK Rapid Wien",
+    "points": 27,
+    "rank": 5
+  },
+  {
+    "country": "Rest Of The World",
+    "league": "Rest Of The World",
+    "teamName": "Mamelodi Sundowns",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Norway",
+    "league": "Eliteserien",
+    "teamName": "Strømsgodset Toppfotball",
+    "points": 10,
+    "rank": 15
+  },
+  {
+    "country": "Sweden",
+    "league": "Allsvenskan",
+    "teamName": "IK Sirius Fotboll",
+    "points": 23,
+    "rank": 12
+  },
+  {
+    "country": "France",
+    "league": "Ligue 1 McDonald’s",
+    "teamName": "Nantes",
+    "points": 3,
+    "rank": 11
+  },
+  {
+    "country": "France",
+    "league": "Ligue 1 McDonald’s",
+    "teamName": "Nice",
+    "points": 3,
+    "rank": 9
+  },
+  {
+    "country": "England",
+    "league": "Premier League",
+    "teamName": "Tottenham Hotspur",
+    "points": 9,
+    "rank": 4
+  },
+  {
+    "country": "Austria",
+    "league": "Admiral Bundesliga",
+    "teamName": "SK Sturm Graz",
+    "points": 40,
+    "rank": 1
+  },
+  {
+    "country": "Austria",
+    "league": "Admiral Bundesliga",
+    "teamName": "FC Red Bull Salzburg",
+    "points": 38,
+    "rank": 2
+  },
+  {
+    "country": "Republic of Ireland",
+    "league": "SSE AIRTRICITY PD",
+    "teamName": "Sligo Rovers F.C.",
+    "points": 30,
+    "rank": 9
+  },
+  {
+    "country": "China",
+    "league": "Chinese Super League",
+    "teamName": "Shanghai Shenhua F.C.",
+    "points": 49,
+    "rank": 2
+  },
+  {
+    "country": "Austria",
+    "league": "Admiral Bundesliga",
+    "teamName": "Wolfsberger AC",
+    "points": 37,
+    "rank": 4
+  },
+  {
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "teamName": "Piast Gliwice",
+    "points": 3,
+    "rank": 17
+  },
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "FC Twente",
+    "points": 54,
+    "rank": 6
+  },
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "NAC Breda",
+    "points": 33,
+    "rank": 15
+  },
+  {
+    "country": "Belgium",
+    "league": "Pro League",
+    "teamName": "Antwerp",
+    "points": 32,
+    "rank": 5
+  },
+  {
+    "country": "Austria",
+    "league": "Admiral Bundesliga",
+    "teamName": "FK Austria Wien",
+    "points": 37,
+    "rank": 3
+  },
+  {
+    "country": "China",
+    "league": "Chinese Super League",
+    "teamName": "Tianjin Jinmen Tiger F.C.",
+    "points": 34,
+    "rank": 7
+  },
+  {
+    "country": "USA & Canada",
+    "league": "Major League Soccer",
+    "teamName": "New York City FC",
+    "points": 48,
+    "rank": 9
+  },
+  {
+    "country": "France",
+    "league": "Ligue 1 McDonald’s",
+    "teamName": "Lyon",
+    "points": 6,
+    "rank": 3
+  },
+  {
+    "country": "Romania",
+    "league": "Superliga (Liga I)",
+    "teamName": "FC Botoșani",
+    "points": 12,
+    "rank": 5
+  },
+  {
+    "country": "Saudi Arabia",
+    "league": "Roshn Saudi League",
+    "teamName": "Al Hilal SFC",
+    "points": 3,
+    "rank": 5
+  },
+  {
+    "country": "Spain",
+    "league": "LaLiga EA SPORTS",
+    "teamName": "Valencia CF",
+    "points": 48,
+    "rank": 12
+  },
+  {
+    "country": "Belgium",
+    "league": "Pro League",
+    "teamName": "Mechelen",
+    "points": 31,
+    "rank": 9
+  },
+  {
+    "country": "France",
+    "league": "Ligue 2 BKT",
+    "teamName": "FC Annecy",
+    "points": 4,
+    "rank": 14
+  },
+  {
+    "country": "Spain",
+    "league": "LaLiga EA SPORTS",
+    "teamName": "Celta Vigo",
+    "points": 55,
+    "rank": 7
+  },
+  {
+    "country": "International",
+    "league": "ITNTNL ",
+    "teamName": "Ghana",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "International",
+    "league": "ITNTNL ",
+    "teamName": "Ukraine",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "China",
+    "league": "Chinese Super League",
+    "teamName": "Changchun Yatai F.C.",
+    "points": 16,
+    "rank": 16
+  },
+  {
+    "country": "Rest Of The World",
+    "league": "Rest Of The World",
+    "teamName": "Chabab Mohammedia",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Republic of Ireland",
+    "league": "SSE AIRTRICITY PD",
+    "teamName": "Galway United F.C.",
+    "points": 30,
+    "rank": 8
+  },
+  {
+    "country": "India",
+    "league": "Indian Super League",
+    "teamName": "East Bengal FC",
+    "points": 0,
+    "rank": 3
+  },
+  {
+    "country": "Sweden",
+    "league": "Allsvenskan",
+    "teamName": "Hammarby Fotboll",
+    "points": 42,
+    "rank": 2
+  },
+  {
+    "country": "Argentina",
+    "league": "Liga Profesional de Fútbol",
+    "teamName": "Defensa y Justicia",
+    "points": 28,
+    "rank": 17
+  },
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "PSV",
+    "points": 79,
+    "rank": 1
+  },
+  {
+    "country": "Turkey",
+    "league": "Süper Lig",
+    "teamName": "Samsunspor",
+    "points": 6,
+    "rank": 5
+  },
+  {
+    "country": "Belgium",
+    "league": "Pro League",
+    "teamName": "Oud-Heverlee Leuven",
+    "points": 27,
+    "rank": 12
+  },
+  {
+    "country": "England",
+    "league": "EFL League One",
+    "teamName": "Ipswich Town",
+    "points": 34,
+    "rank": 13
+  },
+  {
+    "country": "Italy",
+    "league": "Serie BKT",
+    "teamName": "Cittadella",
+    "points": 73,
+    "rank": 9
+  },
+  {
+    "country": "Saudi Arabia",
+    "league": "Roshn Saudi League",
+    "teamName": "Al Fateh SC",
+    "points": 0,
+    "rank": 12
+  },
+  {
+    "country": "Saudi Arabia",
+    "league": "Roshn Saudi League",
+    "teamName": "Al-Kholood Club",
+    "points": 0,
+    "rank": 11
+  },
+  {
+    "country": "Rest Of The World",
+    "league": "Rest Of The World",
+    "teamName": "Atlético Nacional",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Argentina",
+    "league": "Liga Profesional de Fútbol",
+    "teamName": "San Lorenzo",
+    "points": 39,
+    "rank": 6
+  },
+  {
+    "country": "Saudi Arabia",
+    "league": "Roshn Saudi League",
+    "teamName": "Al-Ettifaq FC",
+    "points": 3,
+    "rank": 6
+  },
+  {
+    "country": "France",
+    "league": "Ligue 1 McDonald’s",
+    "teamName": "Monaco",
+    "points": 3,
+    "rank": 8
+  },
+  {
+    "country": "South Korea",
+    "league": "K League 1",
+    "teamName": "Suwon FC",
+    "points": 31,
+    "rank": 9
+  },
+  {
+    "country": "Denmark",
+    "league": "3F Superliga",
+    "teamName": "Randers FC",
+    "points": 48,
+    "rank": 4
+  },
+  {
+    "country": "Romania",
+    "league": "Superliga (Liga I)",
+    "teamName": "ASC Oțelul Galați",
+    "points": 9,
+    "rank": 10
+  },
+  {
+    "country": "Germany",
+    "league": "Bundesliga",
+    "teamName": "1. FC Heidenheim",
+    "points": 37,
+    "rank": 16
+  },
+  {
+    "country": "Rest Of The World",
+    "league": "Rest Of The World",
+    "teamName": "Panathinaikos",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Norway",
+    "league": "Eliteserien",
+    "teamName": "KFUM-Kameratene Oslo",
+    "points": 27,
+    "rank": 8
+  },
+  {
+    "country": "International",
+    "league": "ITNTNL ",
+    "teamName": "Argentina",
+    "points": 0,
+    "rank": 0
+  },
+  {
+    "country": "Sweden",
+    "league": "Allsvenskan",
+    "teamName": "IFK Värnamo",
+    "points": 12,
+    "rank": 16
+  },
+  {
+    "country": "India",
+    "league": "Indian Super League",
+    "teamName": "Hyderabad FC",
+    "points": 0,
+    "rank": 5
+  },
+  {
+    "country": "Austria",
+    "league": "Admiral Bundesliga",
+    "teamName": "WSG Tirol",
+    "points": 20,
+    "rank": 9
+  },
+  {
+    "country": "Portugal",
+    "league": "Liga Portugal",
+    "teamName": "Sporting CP",
+    "points": 90,
+    "rank": 1
+  },
+  {
+    "country": "Scotland",
+    "league": "Cinch Premiership",
+    "teamName": "Dundee United FC",
+    "points": 53,
+    "rank": 4
+  },
+  {
+    "country": "Scotland",
+    "league": "Cinch Premiership",
+    "teamName": "Celtic FC",
+    "points": 92,
+    "rank": 1
+  },
+  {
+    "country": "USA & Canada",
+    "league": "Major League Soccer",
+    "teamName": "Austin FC",
+    "points": 41,
+    "rank": 24
+  },
+  {
+    "country": "Poland",
+    "league": "Ekstraklasa",
+    "teamName": "Pogoń Szczecin",
+    "points": 7,
+    "rank": 13
+  },
+  {
+    "country": "USA & Canada",
+    "league": "Major League Soccer",
+    "teamName": "Portland Timbers",
+    "points": 48,
+    "rank": 20
+  },
+  {
+    "country": "Netherlands",
+    "league": "Eredivisie",
+    "teamName": "SC Heerenveen",
+    "points": 43,
+    "rank": 9
+  },
+  {
+    "country": "France",
+    "league": "Ligue 1 McDonald’s",
+    "teamName": "Paris Saint-Germain",
+    "points": 9,
+    "rank": 1
+  },
+  {
+    "country": "China",
+    "league": "Chinese Super League",
+    "teamName": "Shandong Taishan F.C.",
+    "points": 37,
+    "rank": 5
+  },
+  {
+    "country": "Belgium",
+    "league": "Pro League",
+    "teamName": "Cercle Brugge",
+    "points": 39,
+    "rank": 14
+  },
+  {
+    "country": "Argentina",
+    "league": "Liga Profesional de Fútbol",
+    "teamName": "Vélez Sarsfield",
+    "points": 28,
+    "rank": 18
+  }
+]

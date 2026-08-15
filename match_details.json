@@ -1,0 +1,2438 @@
+[
+  {
+    "namanTeam": "Galatasaray S.K.",
+    "littleTeam": "FC Dinamo București",
+    "timeStamp": "28 Sep, 2025 11:54",
+    "gameCount": 1
+  },
+  {
+    "namanTeam": "Barrow",
+    "littleTeam": "Gimnasia y Esgrima",
+    "timeStamp": "28 Sep, 2025 11:54",
+    "gameCount": 2
+  },
+  {
+    "namanTeam": "Newell's Old Boys",
+    "littleTeam": "Your Choice",
+    "timeStamp": "28 Sep, 2025 12:15",
+    "gameCount": 3
+  },
+  {
+    "namanTeam": "Hansa Rostock",
+    "littleTeam": "Bruk-Bet Termalica Nieciecza",
+    "timeStamp": "28 Sep, 2025 12:36",
+    "gameCount": 4
+  },
+  {
+    "namanTeam": "Independiente Rivadavia",
+    "littleTeam": "Newport County",
+    "timeStamp": "28 Sep, 2025 12:38",
+    "gameCount": 5
+  },
+  {
+    "namanTeam": "Blackburn Rovers",
+    "littleTeam": "Ross County FC",
+    "timeStamp": "28 Sep, 2025 13:00",
+    "gameCount": 6
+  },
+  {
+    "namanTeam": "NEC Nijmegen",
+    "littleTeam": "Famalicão",
+    "timeStamp": "28 Sep, 2025 13:21",
+    "gameCount": 7
+  },
+  {
+    "namanTeam": "Athletic Club",
+    "littleTeam": "Dundee United FC",
+    "timeStamp": "28 Sep, 2025 13:48",
+    "gameCount": 8
+  },
+  {
+    "namanTeam": "Konyaspor",
+    "littleTeam": "WSG Tirol",
+    "timeStamp": "28 Sep, 2025 14:06",
+    "gameCount": 9
+  },
+  {
+    "namanTeam": "Motherwell FC",
+    "littleTeam": "Konyaspor",
+    "timeStamp": "28 Sep, 2025 14:08",
+    "gameCount": 10
+  },
+  {
+    "namanTeam": "Auckland FC",
+    "littleTeam": "Shandong Taishan F.C.",
+    "timeStamp": "28 Sep, 2025 14:29",
+    "gameCount": 11
+  },
+  {
+    "namanTeam": "Vejle Boldklub",
+    "littleTeam": "Dalian Yingbo F.C.",
+    "timeStamp": "28 Sep, 2025 16:57",
+    "gameCount": 12
+  },
+  {
+    "namanTeam": "St Mirren FC",
+    "littleTeam": "Parma",
+    "timeStamp": "28 Sep, 2025 16:59",
+    "gameCount": 13
+  },
+  {
+    "namanTeam": "Jeju United",
+    "littleTeam": "FK Haugesund",
+    "timeStamp": "28 Sep, 2025 17:45",
+    "gameCount": 14
+  },
+  {
+    "namanTeam": "FC Sion",
+    "littleTeam": "Real Sporting de Gijón",
+    "timeStamp": "28 Sep, 2025 18:20",
+    "gameCount": 15
+  },
+  {
+    "namanTeam": "Al-Fayha FC",
+    "littleTeam": "Al-Riyadh SC",
+    "timeStamp": "28 Sep, 2025 18:36",
+    "gameCount": 16
+  },
+  {
+    "namanTeam": "Huddersfield Town",
+    "littleTeam": "Doncaster Rovers",
+    "timeStamp": "28 Sep, 2025 18:54",
+    "gameCount": 17
+  },
+  {
+    "namanTeam": "Almería",
+    "littleTeam": "Vélez Sarsfield",
+    "timeStamp": "28 Sep, 2025 18:55",
+    "gameCount": 18
+  },
+  {
+    "namanTeam": "Your Choice",
+    "littleTeam": "Gil Vicente",
+    "timeStamp": "28 Sep, 2025 22:22",
+    "gameCount": 19
+  },
+  {
+    "namanTeam": "Feyenoord",
+    "littleTeam": "Chaves",
+    "timeStamp": "28 Sep, 2025 22:43",
+    "gameCount": 20
+  },
+  {
+    "namanTeam": "Le Havre",
+    "littleTeam": "Sydney FC",
+    "timeStamp": "28 Sep, 2025 22:45",
+    "gameCount": 21
+  },
+  {
+    "namanTeam": "Eintracht Frankfurt",
+    "littleTeam": "Grenoble Foot 38",
+    "timeStamp": "28 Sep, 2025 23:03",
+    "gameCount": 22
+  },
+  {
+    "namanTeam": "Daejeon Hana Citizen",
+    "littleTeam": "SC Freiburg II",
+    "timeStamp": "02 Oct, 2025 19:27",
+    "gameCount": 23
+  },
+  {
+    "namanTeam": "FC Barcelona",
+    "littleTeam": "Real Madrid",
+    "timeStamp": "04 Oct, 2025 00:08",
+    "gameCount": 24
+  },
+  {
+    "namanTeam": "Aarhus Gymnastikforening",
+    "littleTeam": "Changchun Yatai F.C.",
+    "timeStamp": "04 Oct, 2025 00:28",
+    "gameCount": 25
+  },
+  {
+    "namanTeam": "Holstein Kiel",
+    "littleTeam": "1. FC Saarbrücken",
+    "timeStamp": "04 Oct, 2025 00:47",
+    "gameCount": 26
+  },
+  {
+    "namanTeam": "Central Córdoba",
+    "littleTeam": "Valencia CF",
+    "timeStamp": "04 Oct, 2025 01:05",
+    "gameCount": 27
+  },
+  {
+    "namanTeam": "Almere City FC",
+    "littleTeam": "Wolfsberger AC",
+    "timeStamp": "04 Oct, 2025 01:22",
+    "gameCount": 28
+  },
+  {
+    "namanTeam": "Brest",
+    "littleTeam": "Levante UD",
+    "timeStamp": "04 Oct, 2025 01:40",
+    "gameCount": 29
+  },
+  {
+    "namanTeam": "FC Barcelona",
+    "littleTeam": "Real Madrid",
+    "timeStamp": "04 Oct, 2025 01:43",
+    "gameCount": 30
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "04 Oct, 2025 11:31",
+    "gameCount": 31
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "04 Oct, 2025 11:53",
+    "gameCount": 32
+  },
+  {
+    "namanTeam": "Meizhou Hakka F.C.",
+    "littleTeam": "FC Red Bull Salzburg",
+    "timeStamp": "04 Oct, 2025 12:10",
+    "gameCount": 33
+  },
+  {
+    "namanTeam": "Farense",
+    "littleTeam": "Motor Lublin",
+    "timeStamp": "04 Oct, 2025 12:28",
+    "gameCount": 34
+  },
+  {
+    "namanTeam": "Melbourne City FC",
+    "littleTeam": "Al Akhdoud Saudi Club",
+    "timeStamp": "04 Oct, 2025 12:46",
+    "gameCount": 35
+  },
+  {
+    "namanTeam": "Your Choice",
+    "littleTeam": "Viborg FF",
+    "timeStamp": "04 Oct, 2025 13:21",
+    "gameCount": 36
+  },
+  {
+    "namanTeam": "Lechia Gdańsk",
+    "littleTeam": "SC Heerenveen",
+    "timeStamp": "04 Oct, 2025 19:11",
+    "gameCount": 37
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "04 Oct, 2025 19:30",
+    "gameCount": 38
+  },
+  {
+    "namanTeam": "CF Montréal",
+    "littleTeam": "Arsenal",
+    "timeStamp": "04 Oct, 2025 19:52",
+    "gameCount": 39
+  },
+  {
+    "namanTeam": "Fortuna Sittard",
+    "littleTeam": "Port Vale",
+    "timeStamp": "04 Oct, 2025 20:10",
+    "gameCount": 40
+  },
+  {
+    "namanTeam": "Aberdeen FC",
+    "littleTeam": "FC Dallas",
+    "timeStamp": "04 Oct, 2025 20:11",
+    "gameCount": 41
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "04 Oct, 2025 20:38",
+    "gameCount": 42
+  },
+  {
+    "namanTeam": "Beijing Guoan F.C.",
+    "littleTeam": "Rio Ave",
+    "timeStamp": "04 Oct, 2025 20:57",
+    "gameCount": 43
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "05 Oct, 2025 13:52",
+    "gameCount": 44
+  },
+  {
+    "namanTeam": "Burton Albion",
+    "littleTeam": "Chesterfield",
+    "timeStamp": "05 Oct, 2025 14:10",
+    "gameCount": 45
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "05 Oct, 2025 14:45",
+    "gameCount": 46
+  },
+  {
+    "namanTeam": "SK Brann",
+    "littleTeam": "Cheltenham Town",
+    "timeStamp": "05 Oct, 2025 17:40",
+    "gameCount": 47
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "10 Oct, 2025 23:55",
+    "gameCount": 48
+  },
+  {
+    "namanTeam": "FC Cincinnati",
+    "littleTeam": "Birmingham City",
+    "timeStamp": "10 Oct, 2025 23:56",
+    "gameCount": 49
+  },
+  {
+    "namanTeam": "Columbus Crew",
+    "littleTeam": "Trabzonspor",
+    "timeStamp": "11 Oct, 2025 00:30",
+    "gameCount": 50
+  },
+  {
+    "namanTeam": "Your Choice",
+    "littleTeam": "Rayo Vallecano",
+    "timeStamp": "11 Oct, 2025 00:47",
+    "gameCount": 51
+  },
+  {
+    "namanTeam": "FC Anyang",
+    "littleTeam": "Qingdao Hainiu F.C.",
+    "timeStamp": "11 Oct, 2025 01:04",
+    "gameCount": 52
+  },
+  {
+    "namanTeam": "Hallescher FC",
+    "littleTeam": "Al-Taawoun FC",
+    "timeStamp": "11 Oct, 2025 01:21",
+    "gameCount": 53
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "11 Oct, 2025 01:23",
+    "gameCount": 54
+  },
+  {
+    "namanTeam": "FC Midtjylland",
+    "littleTeam": "LASK",
+    "timeStamp": "11 Oct, 2025 01:23",
+    "gameCount": 55
+  },
+  {
+    "namanTeam": "1. FC Köln",
+    "littleTeam": "Norwich City",
+    "timeStamp": "11 Oct, 2025 12:43",
+    "gameCount": 56
+  },
+  {
+    "namanTeam": "FC UTA Arad",
+    "littleTeam": "Cork City FC",
+    "timeStamp": "11 Oct, 2025 13:07",
+    "gameCount": 57
+  },
+  {
+    "namanTeam": "Lech Poznań",
+    "littleTeam": "Al Fateh SC",
+    "timeStamp": "11 Oct, 2025 13:24",
+    "gameCount": 58
+  },
+  {
+    "namanTeam": "Perth Glory FC",
+    "littleTeam": "Hull City",
+    "timeStamp": "11 Oct, 2025 14:05",
+    "gameCount": 59
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "11 Oct, 2025 14:24",
+    "gameCount": 60
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "11 Oct, 2025 23:11",
+    "gameCount": 61
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "11 Oct, 2025 23:30",
+    "gameCount": 62
+  },
+  {
+    "namanTeam": "Al-Ahli Saudi FC",
+    "littleTeam": "FC Goa",
+    "timeStamp": "11 Oct, 2025 23:49",
+    "gameCount": 63
+  },
+  {
+    "namanTeam": "Standard Liège",
+    "littleTeam": "Los Angeles FC",
+    "timeStamp": "12 Oct, 2025 00:06",
+    "gameCount": 64
+  },
+  {
+    "namanTeam": "FCSB",
+    "littleTeam": "ES Troyes AC",
+    "timeStamp": "12 Oct, 2025 00:22",
+    "gameCount": 65
+  },
+  {
+    "namanTeam": "SK Austria Klagenfurt",
+    "littleTeam": "Hamarkameratene",
+    "timeStamp": "12 Oct, 2025 00:41",
+    "gameCount": 66
+  },
+  {
+    "namanTeam": "FC Petrolul Ploiești",
+    "littleTeam": "AS Nancy Lorraine",
+    "timeStamp": "12 Oct, 2025 00:42",
+    "gameCount": 67
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "12 Oct, 2025 11:39",
+    "gameCount": 68
+  },
+  {
+    "namanTeam": "Gençlerbirliği S.K.",
+    "littleTeam": "FC Hermannstadt",
+    "timeStamp": "12 Oct, 2025 11:40",
+    "gameCount": 69
+  },
+  {
+    "namanTeam": "Soccer Aid",
+    "littleTeam": "Hammarby Fotboll",
+    "timeStamp": "12 Oct, 2025 12:06",
+    "gameCount": 70
+  },
+  {
+    "namanTeam": "Empoli",
+    "littleTeam": "NEC Nijmegen",
+    "timeStamp": "12 Oct, 2025 12:24",
+    "gameCount": 71
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "12 Oct, 2025 12:43",
+    "gameCount": 72
+  },
+  {
+    "namanTeam": "Adelaide United FC",
+    "littleTeam": "Arka Gdynia",
+    "timeStamp": "12 Oct, 2025 13:47",
+    "gameCount": 73
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "12 Oct, 2025 14:57",
+    "gameCount": 74
+  },
+  {
+    "namanTeam": "Lecco",
+    "littleTeam": "Malmö FF",
+    "timeStamp": "12 Oct, 2025 20:45",
+    "gameCount": 75
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "19 Dec, 2025 17:51",
+    "gameCount": 76
+  },
+  {
+    "namanTeam": "Norway",
+    "littleTeam": "Bryne FK",
+    "timeStamp": "19 Dec, 2025 18:34",
+    "gameCount": 77
+  },
+  {
+    "namanTeam": "Newcastle Jets FC",
+    "littleTeam": "Zlatan FC",
+    "timeStamp": "19 Dec, 2025 19:49",
+    "gameCount": 78
+  },
+  {
+    "namanTeam": "Ulsan HD FC",
+    "littleTeam": "Fredrikstad FK",
+    "timeStamp": "19 Dec, 2025 20:22",
+    "gameCount": 79
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "19 Dec, 2025 20:43",
+    "gameCount": 80
+  },
+  {
+    "namanTeam": "Alanyaspor",
+    "littleTeam": "Motherwell FC",
+    "timeStamp": "19 Dec, 2025 23:52",
+    "gameCount": 81
+  },
+  {
+    "namanTeam": "Your Choice",
+    "littleTeam": "FK Austria Wien",
+    "timeStamp": "20 Dec, 2025 00:13",
+    "gameCount": 82
+  },
+  {
+    "namanTeam": "SønderjyskE Fodbold",
+    "littleTeam": "Çaykur Rizespor",
+    "timeStamp": "20 Dec, 2025 15:18",
+    "gameCount": 83
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "20 Dec, 2025 15:51",
+    "gameCount": 84
+  },
+  {
+    "namanTeam": "Denmark",
+    "littleTeam": "LA Galaxy",
+    "timeStamp": "20 Dec, 2025 16:18",
+    "gameCount": 85
+  },
+  {
+    "namanTeam": "Wehen Wiesbaden",
+    "littleTeam": "Pohang Steelers",
+    "timeStamp": "20 Dec, 2025 16:39",
+    "gameCount": 86
+  },
+  {
+    "namanTeam": "Sandefjord Fotball",
+    "littleTeam": "Vålerenga Fotball",
+    "timeStamp": "20 Dec, 2025 16:58",
+    "gameCount": 87
+  },
+  {
+    "namanTeam": "Tigre",
+    "littleTeam": "San Jose Earthquakes",
+    "timeStamp": "20 Dec, 2025 17:16",
+    "gameCount": 88
+  },
+  {
+    "namanTeam": "Zlatan FC",
+    "littleTeam": "Central Coast Mariners FC",
+    "timeStamp": "20 Dec, 2025 17:36",
+    "gameCount": 89
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "21 Dec, 2025 14:59",
+    "gameCount": 90
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "21 Dec, 2025 15:18",
+    "gameCount": 91
+  },
+  {
+    "namanTeam": "FC Universitatea Cluj",
+    "littleTeam": "IFK Göteborg",
+    "timeStamp": "21 Dec, 2025 15:36",
+    "gameCount": 92
+  },
+  {
+    "namanTeam": "Granada CF",
+    "littleTeam": "Bayern Munich",
+    "timeStamp": "21 Dec, 2025 15:56",
+    "gameCount": 93
+  },
+  {
+    "namanTeam": "FC St. Gallen",
+    "littleTeam": "Benfica",
+    "timeStamp": "21 Dec, 2025 18:21",
+    "gameCount": 94
+  },
+  {
+    "namanTeam": "Preußen Münster",
+    "littleTeam": "FK Bodø/Glimt",
+    "timeStamp": "21 Dec, 2025 18:38",
+    "gameCount": 95
+  },
+  {
+    "namanTeam": "Dalian Yingbo F.C.",
+    "littleTeam": "Kerala Blasters FC",
+    "timeStamp": "21 Dec, 2025 19:00",
+    "gameCount": 96
+  },
+  {
+    "namanTeam": "St Johnstone FC",
+    "littleTeam": "FC Luzern",
+    "timeStamp": "21 Dec, 2025 20:55",
+    "gameCount": 97
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "21 Dec, 2025 20:58",
+    "gameCount": 98
+  },
+  {
+    "namanTeam": "Arouca",
+    "littleTeam": "Hyderabad FC",
+    "timeStamp": "25 Dec, 2025 12:57",
+    "gameCount": 99
+  },
+  {
+    "namanTeam": "Hibernian FC",
+    "littleTeam": "FC Metaloglobus București",
+    "timeStamp": "25 Dec, 2025 13:19",
+    "gameCount": 100
+  },
+  {
+    "namanTeam": "Jeonbuk Hyundai Motors",
+    "littleTeam": "Randers FC",
+    "timeStamp": "25 Dec, 2025 13:35",
+    "gameCount": 101
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "25 Dec, 2025 13:58",
+    "gameCount": 102
+  },
+  {
+    "namanTeam": "Damac FC",
+    "littleTeam": "Dynamo Dresden",
+    "timeStamp": "25 Dec, 2025 14:15",
+    "gameCount": 103
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "25 Dec, 2025 14:34",
+    "gameCount": 104
+  },
+  {
+    "namanTeam": "FC Winterthur",
+    "littleTeam": "Ulsan HD FC",
+    "timeStamp": "25 Dec, 2025 16:12",
+    "gameCount": 105
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "25 Dec, 2025 16:41",
+    "gameCount": 106
+  },
+  {
+    "namanTeam": "Dundee FC",
+    "littleTeam": "PAOK",
+    "timeStamp": "25 Dec, 2025 16:59",
+    "gameCount": 107
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "25 Dec, 2025 17:18",
+    "gameCount": 108
+  },
+  {
+    "namanTeam": "FC Goa",
+    "littleTeam": "Kocaelispor",
+    "timeStamp": "26 Dec, 2025 23:59",
+    "gameCount": 109
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "27 Dec, 2025 00:25",
+    "gameCount": 110
+  },
+  {
+    "namanTeam": "Talleres",
+    "littleTeam": "Kobenhvn",
+    "timeStamp": "27 Dec, 2025 00:45",
+    "gameCount": 111
+  },
+  {
+    "namanTeam": "Sydney FC",
+    "littleTeam": "Braga",
+    "timeStamp": "27 Dec, 2025 01:02",
+    "gameCount": 112
+  },
+  {
+    "namanTeam": "Irelad",
+    "littleTeam": "Sporting CP",
+    "timeStamp": "27 Dec, 2025 01:20",
+    "gameCount": 113
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "27 Dec, 2025 01:39",
+    "gameCount": 114
+  },
+  {
+    "namanTeam": "Jagiellonia Białystok",
+    "littleTeam": "Halmstads BK",
+    "timeStamp": "27 Dec, 2025 13:48",
+    "gameCount": 115
+  },
+  {
+    "namanTeam": "Fredrikstad FK",
+    "littleTeam": "Sint-Truiden",
+    "timeStamp": "27 Dec, 2025 14:10",
+    "gameCount": 116
+  },
+  {
+    "namanTeam": "Platense",
+    "littleTeam": "Celtic FC",
+    "timeStamp": "27 Dec, 2025 14:12",
+    "gameCount": 117
+  },
+  {
+    "namanTeam": "Bristol Rovers",
+    "littleTeam": "Borussia Mönchengladbach",
+    "timeStamp": "27 Dec, 2025 14:30",
+    "gameCount": 118
+  },
+  {
+    "namanTeam": "Birmingham City",
+    "littleTeam": "CD Lugo",
+    "timeStamp": "27 Dec, 2025 14:49",
+    "gameCount": 119
+  },
+  {
+    "namanTeam": "Mallorca",
+    "littleTeam": "IF Brommapojkarna",
+    "timeStamp": "27 Dec, 2025 14:50",
+    "gameCount": 120
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "27 Dec, 2025 15:11",
+    "gameCount": 121
+  },
+  {
+    "namanTeam": "Kerala Blasters FC",
+    "littleTeam": "TSV Hartberg",
+    "timeStamp": "27 Dec, 2025 15:34",
+    "gameCount": 122
+  },
+  {
+    "namanTeam": "FC Rapid București",
+    "littleTeam": "RKC Waalwijk",
+    "timeStamp": "27 Dec, 2025 15:45",
+    "gameCount": 123
+  },
+  {
+    "namanTeam": "Club Brugge",
+    "littleTeam": "Auckland FC",
+    "timeStamp": "27 Dec, 2025 15:45",
+    "gameCount": 124
+  },
+  {
+    "namanTeam": "Classic XI",
+    "littleTeam": "Al-Ahli Saudi FC",
+    "timeStamp": "27 Dec, 2025 15:45",
+    "gameCount": 125
+  },
+  {
+    "namanTeam": "Rest Of the World B3",
+    "littleTeam": "Rest Of the World B3",
+    "timeStamp": "27 Dec, 2025 19:15",
+    "gameCount": 126
+  },
+  {
+    "namanTeam": "Rest Of the World B3",
+    "littleTeam": "Rest Of the World B3",
+    "timeStamp": "27 Dec, 2025 20:23",
+    "gameCount": 127
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "27 Dec, 2025 20:24",
+    "gameCount": 128
+  },
+  {
+    "namanTeam": "Magdeburg",
+    "littleTeam": "Porto",
+    "timeStamp": "27 Dec, 2025 20:24",
+    "gameCount": 129
+  },
+  {
+    "namanTeam": "Heracles Almelo",
+    "littleTeam": "Lecco",
+    "timeStamp": "28 Dec, 2025 17:57",
+    "gameCount": 130
+  },
+  {
+    "namanTeam": "Rest Of the World B3",
+    "littleTeam": "Rest Of the World B3",
+    "timeStamp": "28 Dec, 2025 18:15",
+    "gameCount": 131
+  },
+  {
+    "namanTeam": "Rest Of the World B3",
+    "littleTeam": "Rest Of the World B3",
+    "timeStamp": "28 Dec, 2025 18:36",
+    "gameCount": 132
+  },
+  {
+    "namanTeam": "Chengdu Rongcheng F.C.",
+    "littleTeam": "Eyüpspor",
+    "timeStamp": "28 Dec, 2025 18:56",
+    "gameCount": 133
+  },
+  {
+    "namanTeam": "Genk",
+    "littleTeam": "Tromsø IL",
+    "timeStamp": "10 Jan, 2026 13:05",
+    "gameCount": 134
+  },
+  {
+    "namanTeam": "Tromsø IL",
+    "littleTeam": "St. Louis City SC",
+    "timeStamp": "10 Jan, 2026 14:29",
+    "gameCount": 135
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "10 Jan, 2026 14:55",
+    "gameCount": 136
+  },
+  {
+    "namanTeam": "Cork City FC",
+    "littleTeam": "Classic XI",
+    "timeStamp": "10 Jan, 2026 15:17",
+    "gameCount": 137
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "10 Jan, 2026 15:36",
+    "gameCount": 138
+  },
+  {
+    "namanTeam": "Beerschot",
+    "littleTeam": "Racing Club de Santander",
+    "timeStamp": "10 Jan, 2026 15:56",
+    "gameCount": 139
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "10 Jan, 2026 15:58",
+    "gameCount": 140
+  },
+  {
+    "namanTeam": "LASK",
+    "littleTeam": "Chabab Mohammedia",
+    "timeStamp": "10 Jan, 2026 16:24",
+    "gameCount": 141
+  },
+  {
+    "namanTeam": "Górnik Zabrze",
+    "littleTeam": "Mumbai City FC",
+    "timeStamp": "10 Jan, 2026 16:26",
+    "gameCount": 142
+  },
+  {
+    "namanTeam": "AIK Fotboll",
+    "littleTeam": "Estrela da Amadora",
+    "timeStamp": "01 Feb, 2026 17:38",
+    "gameCount": 143
+  },
+  {
+    "namanTeam": "Raków Częstochowa",
+    "littleTeam": "Melbourne Victory FC",
+    "timeStamp": "01 Feb, 2026 18:02",
+    "gameCount": 144
+  },
+  {
+    "namanTeam": "Grasshopper Club Zurich",
+    "littleTeam": "IF Elfsborg",
+    "timeStamp": "01 Feb, 2026 18:22",
+    "gameCount": 145
+  },
+  {
+    "namanTeam": "Gwangju FC",
+    "littleTeam": "Seattle Sounders FC",
+    "timeStamp": "01 Feb, 2026 18:26",
+    "gameCount": 146
+  },
+  {
+    "namanTeam": "San Jose Earthquakes",
+    "littleTeam": "Union Saint-Gilloise",
+    "timeStamp": "07 Feb, 2026 19:17",
+    "gameCount": 147
+  },
+  {
+    "namanTeam": "GAIS",
+    "littleTeam": "Getafe CF",
+    "timeStamp": "07 Feb, 2026 19:40",
+    "gameCount": 148
+  },
+  {
+    "namanTeam": "Fiorentina",
+    "littleTeam": "FC Winterthur",
+    "timeStamp": "07 Feb, 2026 20:00",
+    "gameCount": 149
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "07 Feb, 2026 20:48",
+    "gameCount": 150
+  },
+  {
+    "namanTeam": "Rest Of the World B3",
+    "littleTeam": "Rest Of the World B3",
+    "timeStamp": "08 Feb, 2026 01:00",
+    "gameCount": 151
+  },
+  {
+    "namanTeam": "Rest Of the World B3",
+    "littleTeam": "Rest Of the World B3",
+    "timeStamp": "08 Feb, 2026 01:18",
+    "gameCount": 152
+  },
+  {
+    "namanTeam": "Tranmere Rovers",
+    "littleTeam": "Damac FC",
+    "timeStamp": "08 Feb, 2026 01:43",
+    "gameCount": 153
+  },
+  {
+    "namanTeam": "Ross County FC",
+    "littleTeam": "Amiens SC",
+    "timeStamp": "08 Feb, 2026 02:07",
+    "gameCount": 154
+  },
+  {
+    "namanTeam": "Benfica",
+    "littleTeam": "Punjab FC",
+    "timeStamp": "08 Feb, 2026 02:08",
+    "gameCount": 155
+  },
+  {
+    "namanTeam": "Rest Of the World B3",
+    "littleTeam": "Rest Of the World B3",
+    "timeStamp": "08 Feb, 2026 02:29",
+    "gameCount": 156
+  },
+  {
+    "namanTeam": "Rest Of the World B3",
+    "littleTeam": "Rest Of the World B3",
+    "timeStamp": "08 Feb, 2026 19:43",
+    "gameCount": 157
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "08 Feb, 2026 20:08",
+    "gameCount": 158
+  },
+  {
+    "namanTeam": "Djurgårdens IF",
+    "littleTeam": "Göztepe S.K.",
+    "timeStamp": "08 Feb, 2026 20:40",
+    "gameCount": 159
+  },
+  {
+    "namanTeam": "APOEL FC",
+    "littleTeam": "Grasshopper Club Zurich",
+    "timeStamp": "08 Feb, 2026 20:58",
+    "gameCount": 160
+  },
+  {
+    "namanTeam": "SV Darmstadt 98",
+    "littleTeam": "Ferencvárosi TC",
+    "timeStamp": "08 Feb, 2026 20:58",
+    "gameCount": 161
+  },
+  {
+    "namanTeam": "Melbourne Victory FC",
+    "littleTeam": "IK Sirius Fotboll",
+    "timeStamp": "08 Feb, 2026 21:20",
+    "gameCount": 162
+  },
+  {
+    "namanTeam": "Werder Bremen",
+    "littleTeam": "BK Häcken",
+    "timeStamp": "08 Feb, 2026 22:11",
+    "gameCount": 163
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "08 Feb, 2026 22:28",
+    "gameCount": 164
+  },
+  {
+    "namanTeam": "Silkeborg IF",
+    "littleTeam": "Independiente",
+    "timeStamp": "14 Feb, 2026 20:42",
+    "gameCount": 165
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "14 Feb, 2026 21:08",
+    "gameCount": 166
+  },
+  {
+    "namanTeam": "Estrela da Amadora",
+    "littleTeam": "Gaziantep F.K.",
+    "timeStamp": "14 Feb, 2026 21:26",
+    "gameCount": 167
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "14 Feb, 2026 21:45",
+    "gameCount": 168
+  },
+  {
+    "namanTeam": "Instituto",
+    "littleTeam": "Club Brugge",
+    "timeStamp": "14 Feb, 2026 23:20",
+    "gameCount": 169
+  },
+  {
+    "namanTeam": "Stade de Reims",
+    "littleTeam": "CF Montréal",
+    "timeStamp": "14 Feb, 2026 23:37",
+    "gameCount": 170
+  },
+  {
+    "namanTeam": "Juventus",
+    "littleTeam": "HJK Helsinki ",
+    "timeStamp": "15 Feb, 2026 11:50",
+    "gameCount": 171
+  },
+  {
+    "namanTeam": "FC Argeș Pitești",
+    "littleTeam": "Beşiktaş J.K.",
+    "timeStamp": "15 Feb, 2026 12:12",
+    "gameCount": 172
+  },
+  {
+    "namanTeam": "Al-Riyadh SC",
+    "littleTeam": "Mallorca",
+    "timeStamp": "15 Feb, 2026 12:30",
+    "gameCount": 173
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "15 Feb, 2026 12:48",
+    "gameCount": 174
+  },
+  {
+    "namanTeam": "Porto",
+    "littleTeam": "Alanyaspor",
+    "timeStamp": "15 Feb, 2026 13:36",
+    "gameCount": 175
+  },
+  {
+    "namanTeam": "Gil Vicente",
+    "littleTeam": "Le Havre",
+    "timeStamp": "15 Feb, 2026 13:54",
+    "gameCount": 176
+  },
+  {
+    "namanTeam": "Willem II",
+    "littleTeam": "SC Freiburg",
+    "timeStamp": "15 Feb, 2026 14:15",
+    "gameCount": 177
+  },
+  {
+    "namanTeam": "Molde FK",
+    "littleTeam": "Melbourne City FC",
+    "timeStamp": "15 Feb, 2026 14:37",
+    "gameCount": 178
+  },
+  {
+    "namanTeam": "Western United FC",
+    "littleTeam": "Rodez AF",
+    "timeStamp": "15 Feb, 2026 14:50",
+    "gameCount": 179
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "15 Feb, 2026 15:09",
+    "gameCount": 180
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "15 Feb, 2026 15:27",
+    "gameCount": 181
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "15 Feb, 2026 15:45",
+    "gameCount": 182
+  },
+  {
+    "namanTeam": "Jamshedpur FC",
+    "littleTeam": "Henan F.C.",
+    "timeStamp": "15 Feb, 2026 16:03",
+    "gameCount": 183
+  },
+  {
+    "namanTeam": "Real Salt Lake",
+    "littleTeam": "Fortuna Sittard",
+    "timeStamp": "15 Feb, 2026 19:23",
+    "gameCount": 184
+  },
+  {
+    "namanTeam": "Mumbai City FC",
+    "littleTeam": "Atlético Tucumán",
+    "timeStamp": "15 Feb, 2026 19:42",
+    "gameCount": 185
+  },
+  {
+    "namanTeam": "Chicago Fire FC",
+    "littleTeam": "New York City FC",
+    "timeStamp": "15 Feb, 2026 20:02",
+    "gameCount": 186
+  },
+  {
+    "namanTeam": "Antalyaspor",
+    "littleTeam": "Estoril",
+    "timeStamp": "15 Feb, 2026 20:20",
+    "gameCount": 187
+  },
+  {
+    "namanTeam": "Punjab FC",
+    "littleTeam": "Aarhus Gymnastikforening",
+    "timeStamp": "16 Feb, 2026 16:13",
+    "gameCount": 188
+  },
+  {
+    "namanTeam": "Hajduk Split",
+    "littleTeam": "FC Lugano",
+    "timeStamp": "16 Feb, 2026 16:38",
+    "gameCount": 189
+  },
+  {
+    "namanTeam": "Al-Taawoun FC",
+    "littleTeam": "AZ Alkmaar",
+    "timeStamp": "16 Feb, 2026 16:56",
+    "gameCount": 190
+  },
+  {
+    "namanTeam": "IF Elfsborg",
+    "littleTeam": "Heracles Almelo",
+    "timeStamp": "16 Feb, 2026 17:15",
+    "gameCount": 191
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "16 Feb, 2026 17:37",
+    "gameCount": 192
+  },
+  {
+    "namanTeam": "Villarreal",
+    "littleTeam": "Inter Kashi FC",
+    "timeStamp": "16 Feb, 2026 18:12",
+    "gameCount": 193
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "16 Feb, 2026 19:32",
+    "gameCount": 194
+  },
+  {
+    "namanTeam": "Deportivo Riestra",
+    "littleTeam": "Bohemian F.C.",
+    "timeStamp": "16 Feb, 2026 23:09",
+    "gameCount": 195
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "16 Feb, 2026 23:29",
+    "gameCount": 196
+  },
+  {
+    "namanTeam": "Brøndby IF",
+    "littleTeam": "SK Austria Klagenfurt",
+    "timeStamp": "16 Feb, 2026 23:49",
+    "gameCount": 197
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "16 Feb, 2026 23:51",
+    "gameCount": 198
+  },
+  {
+    "namanTeam": "Ajax",
+    "littleTeam": "Vejle Boldklub",
+    "timeStamp": "17 Feb, 2026 00:09",
+    "gameCount": 199
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "17 Feb, 2026 12:45",
+    "gameCount": 200
+  },
+  {
+    "namanTeam": "Vitória de Guimarães",
+    "littleTeam": "Nantes",
+    "timeStamp": "17 Feb, 2026 16:24",
+    "gameCount": 201
+  },
+  {
+    "namanTeam": "Real Zaragoza",
+    "littleTeam": "IFK Norrköping",
+    "timeStamp": "17 Feb, 2026 16:45",
+    "gameCount": 202
+  },
+  {
+    "namanTeam": "FC Lugano",
+    "littleTeam": "Monza",
+    "timeStamp": "17 Feb, 2026 16:56",
+    "gameCount": 203
+  },
+  {
+    "namanTeam": "Korona Kielce",
+    "littleTeam": "Arouca",
+    "timeStamp": "17 Feb, 2026 18:10",
+    "gameCount": 204
+  },
+  {
+    "namanTeam": "Zagłębie Lubin",
+    "littleTeam": "Al Hilal SFC",
+    "timeStamp": "17 Feb, 2026 18:33",
+    "gameCount": 205
+  },
+  {
+    "namanTeam": "Your Choice",
+    "littleTeam": "Sarpsborg 08 FF",
+    "timeStamp": "21 Feb, 2026 14:12",
+    "gameCount": 206
+  },
+  {
+    "namanTeam": "Bayer Leverkusen",
+    "littleTeam": "Brøndby IF",
+    "timeStamp": "21 Feb, 2026 14:29",
+    "gameCount": 207
+  },
+  {
+    "namanTeam": "Servette FC",
+    "littleTeam": "Everton",
+    "timeStamp": "21 Feb, 2026 14:46",
+    "gameCount": 208
+  },
+  {
+    "namanTeam": "CD Mirandés",
+    "littleTeam": "Drogheda United F.C.",
+    "timeStamp": "21 Feb, 2026 15:06",
+    "gameCount": 209
+  },
+  {
+    "namanTeam": "Rheindorf Altach",
+    "littleTeam": "VfL Bochum",
+    "timeStamp": "21 Feb, 2026 15:25",
+    "gameCount": 210
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "21 Feb, 2026 15:45",
+    "gameCount": 211
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "21 Feb, 2026 16:09",
+    "gameCount": 212
+  },
+  {
+    "namanTeam": "Sarmiento",
+    "littleTeam": "NEOM SC",
+    "timeStamp": "21 Feb, 2026 16:35",
+    "gameCount": 213
+  },
+  {
+    "namanTeam": "FC Nordsjælland",
+    "littleTeam": "Gimcheon Sangmu FC",
+    "timeStamp": "21 Feb, 2026 16:54",
+    "gameCount": 214
+  },
+  {
+    "namanTeam": "Gaziantep F.K.",
+    "littleTeam": "Soccer Aid",
+    "timeStamp": "21 Feb, 2026 17:13",
+    "gameCount": 215
+  },
+  {
+    "namanTeam": "Italy",
+    "littleTeam": "Al Ain FC",
+    "timeStamp": "21 Feb, 2026 20:24",
+    "gameCount": 216
+  },
+  {
+    "namanTeam": "Shenzhen Peng City F.C.",
+    "littleTeam": "Atlético Madrid",
+    "timeStamp": "21 Feb, 2026 23:30",
+    "gameCount": 217
+  },
+  {
+    "namanTeam": "Wellington Phoenix FC",
+    "littleTeam": "Modena",
+    "timeStamp": "21 Feb, 2026 23:49",
+    "gameCount": 218
+  },
+  {
+    "namanTeam": "Wales",
+    "littleTeam": "En Avant Guingamp",
+    "timeStamp": "22 Feb, 2026 00:09",
+    "gameCount": 219
+  },
+  {
+    "namanTeam": "Hamarkameratene",
+    "littleTeam": "Dundee FC",
+    "timeStamp": "22 Feb, 2026 00:30",
+    "gameCount": 220
+  },
+  {
+    "namanTeam": "Bohemian F.C.",
+    "littleTeam": "Waterford FC",
+    "timeStamp": "22 Feb, 2026 13:30",
+    "gameCount": 221
+  },
+  {
+    "namanTeam": "Fenerbahçe SK",
+    "littleTeam": "GAIS",
+    "timeStamp": "22 Feb, 2026 13:49",
+    "gameCount": 222
+  },
+  {
+    "namanTeam": "AC Milan",
+    "littleTeam": "Kayserispor",
+    "timeStamp": "22 Feb, 2026 14:09",
+    "gameCount": 223
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "22 Feb, 2026 14:18",
+    "gameCount": 224
+  },
+  {
+    "namanTeam": "Real Sporting de Gijón",
+    "littleTeam": "Irelad",
+    "timeStamp": "22 Feb, 2026 14:35",
+    "gameCount": 225
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "22 Feb, 2026 14:53",
+    "gameCount": 226
+  },
+  {
+    "namanTeam": "FCV Farul Constanța",
+    "littleTeam": "Silkeborg IF",
+    "timeStamp": "22 Feb, 2026 15:16",
+    "gameCount": 227
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "22 Feb, 2026 15:35",
+    "gameCount": 228
+  },
+  {
+    "namanTeam": "Kilmarnock FC",
+    "littleTeam": "Toronto FC",
+    "timeStamp": "22 Feb, 2026 18:50",
+    "gameCount": 229
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "27 Feb, 2026 17:02",
+    "gameCount": 230
+  },
+  {
+    "namanTeam": "Minnesota United FC",
+    "littleTeam": "Sligo Rovers F.C.",
+    "timeStamp": "27 Feb, 2026 18:09",
+    "gameCount": 231
+  },
+  {
+    "namanTeam": "Qingdao West Coast F.C.",
+    "littleTeam": "Strømsgodset Toppfotball",
+    "timeStamp": "28 Feb, 2026 18:49",
+    "gameCount": 232
+  },
+  {
+    "namanTeam": "Kobenhvn",
+    "littleTeam": "FCSB",
+    "timeStamp": "28 Feb, 2026 19:08",
+    "gameCount": 233
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "28 Feb, 2026 19:25",
+    "gameCount": 234
+  },
+  {
+    "namanTeam": "Gangwon FC",
+    "littleTeam": "IFK Värnamo",
+    "timeStamp": "28 Feb, 2026 20:19",
+    "gameCount": 235
+  },
+  {
+    "namanTeam": "Finland",
+    "littleTeam": "Rheindorf Altach",
+    "timeStamp": "28 Feb, 2026 20:37",
+    "gameCount": 236
+  },
+  {
+    "namanTeam": "FC Metaloglobus București",
+    "littleTeam": "Djurgårdens IF",
+    "timeStamp": "01 Mar, 2026 14:08",
+    "gameCount": 237
+  },
+  {
+    "namanTeam": "Bruk-Bet Termalica Nieciecza",
+    "littleTeam": "Galatasaray S.K.",
+    "timeStamp": "01 Mar, 2026 14:26",
+    "gameCount": 238
+  },
+  {
+    "namanTeam": "Mjällby AIF",
+    "littleTeam": "Grazer AK",
+    "timeStamp": "01 Mar, 2026 14:45",
+    "gameCount": 239
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "01 Mar, 2026 14:45",
+    "gameCount": 240
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "01 Mar, 2026 15:02",
+    "gameCount": 241
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "01 Mar, 2026 15:21",
+    "gameCount": 242
+  },
+  {
+    "namanTeam": "KS Cracovia",
+    "littleTeam": "Carrarese",
+    "timeStamp": "01 Mar, 2026 15:40",
+    "gameCount": 243
+  },
+  {
+    "namanTeam": "Houston Dynamo FC",
+    "littleTeam": "FK Csíkszereda Miercurea Ciuc",
+    "timeStamp": "04 Mar, 2026 13:47",
+    "gameCount": 244
+  },
+  {
+    "namanTeam": "Daegu FC",
+    "littleTeam": "Al-Khaleej Club",
+    "timeStamp": "04 Mar, 2026 14:10",
+    "gameCount": 245
+  },
+  {
+    "namanTeam": "SV Elversberg",
+    "littleTeam": "FC Anyang",
+    "timeStamp": "04 Mar, 2026 14:27",
+    "gameCount": 246
+  },
+  {
+    "namanTeam": "Kasımpaşa S.K.",
+    "littleTeam": "Newell's Old Boys",
+    "timeStamp": "04 Mar, 2026 17:31",
+    "gameCount": 247
+  },
+  {
+    "namanTeam": "Shamrock Rovers F.C.",
+    "littleTeam": "FC UTA Arad",
+    "timeStamp": "07 Mar, 2026 23:00",
+    "gameCount": 248
+  },
+  {
+    "namanTeam": "Shelbourne F.C.",
+    "littleTeam": "Al-Ettifaq FC",
+    "timeStamp": "07 Mar, 2026 23:18",
+    "gameCount": 249
+  },
+  {
+    "namanTeam": "Swindon Town",
+    "littleTeam": "Moreirense",
+    "timeStamp": "07 Mar, 2026 23:37",
+    "gameCount": 250
+  },
+  {
+    "namanTeam": "FK Csíkszereda Miercurea Ciuc",
+    "littleTeam": "Mohammedan SC",
+    "timeStamp": "07 Mar, 2026 23:55",
+    "gameCount": 251
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "08 Mar, 2026 00:12",
+    "gameCount": 252
+  },
+  {
+    "namanTeam": "Shakhtar Donetsk",
+    "littleTeam": "FC Utrecht",
+    "timeStamp": "08 Mar, 2026 00:34",
+    "gameCount": 253
+  },
+  {
+    "namanTeam": "Beşiktaş J.K.",
+    "littleTeam": "Qatar",
+    "timeStamp": "08 Mar, 2026 14:33",
+    "gameCount": 254
+  },
+  {
+    "namanTeam": "TSV Hartberg",
+    "littleTeam": "Shelbourne F.C.",
+    "timeStamp": "08 Mar, 2026 14:50",
+    "gameCount": 255
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "08 Mar, 2026 15:08",
+    "gameCount": 256
+  },
+  {
+    "namanTeam": "Chennaiyin FC",
+    "littleTeam": "Kilmarnock FC",
+    "timeStamp": "08 Mar, 2026 15:28",
+    "gameCount": 257
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "08 Mar, 2026 15:46",
+    "gameCount": 258
+  },
+  {
+    "namanTeam": "Your Choice",
+    "littleTeam": "Westerlo",
+    "timeStamp": "08 Mar, 2026 16:05",
+    "gameCount": 259
+  },
+  {
+    "namanTeam": "Sheffield United",
+    "littleTeam": "Ajax",
+    "timeStamp": "08 Mar, 2026 16:20",
+    "gameCount": 260
+  },
+  {
+    "namanTeam": "Vancouver Whitecaps FC",
+    "littleTeam": "Moracco",
+    "timeStamp": "15 Mar, 2026 12:57",
+    "gameCount": 261
+  },
+  {
+    "namanTeam": "Mohammedan SC",
+    "littleTeam": "Oud-Heverlee Leuven",
+    "timeStamp": "15 Mar, 2026 13:18",
+    "gameCount": 262
+  },
+  {
+    "namanTeam": "Waterford FC",
+    "littleTeam": "Al-Ittihad Club",
+    "timeStamp": "15 Mar, 2026 15:37",
+    "gameCount": 263
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "15 Mar, 2026 16:01",
+    "gameCount": 264
+  },
+  {
+    "namanTeam": "Union Saint-Gilloise",
+    "littleTeam": "Iceland",
+    "timeStamp": "15 Mar, 2026 16:48",
+    "gameCount": 265
+  },
+  {
+    "namanTeam": "Wuhan Three Towns FC",
+    "littleTeam": "FC Blau-Weiß Linz",
+    "timeStamp": "15 Mar, 2026 17:06",
+    "gameCount": 266
+  },
+  {
+    "namanTeam": "FC Luzern",
+    "littleTeam": "Perth Glory FC",
+    "timeStamp": "15 Mar, 2026 17:26",
+    "gameCount": 267
+  },
+  {
+    "namanTeam": "D.C. United",
+    "littleTeam": "AIK Fotboll",
+    "timeStamp": "15 Mar, 2026 17:46",
+    "gameCount": 268
+  },
+  {
+    "namanTeam": "Your Choice",
+    "littleTeam": "Sparta Praha",
+    "timeStamp": "15 Mar, 2026 18:04",
+    "gameCount": 269
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "15 Mar, 2026 18:52",
+    "gameCount": 270
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "15 Mar, 2026 19:59",
+    "gameCount": 271
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "19 Mar, 2026 23:24",
+    "gameCount": 272
+  },
+  {
+    "namanTeam": "Newcastle United",
+    "littleTeam": "Tigre",
+    "timeStamp": "19 Mar, 2026 23:45",
+    "gameCount": 273
+  },
+  {
+    "namanTeam": "Mohun Bagan Super Giant",
+    "littleTeam": "Real Sociedad",
+    "timeStamp": "20 Mar, 2026 00:06",
+    "gameCount": 274
+  },
+  {
+    "namanTeam": "Viking FK",
+    "littleTeam": "FC Midtjylland",
+    "timeStamp": "20 Mar, 2026 12:08",
+    "gameCount": 275
+  },
+  {
+    "namanTeam": "Radomiak Radom",
+    "littleTeam": "FC Petrolul Ploiești",
+    "timeStamp": "20 Mar, 2026 12:26",
+    "gameCount": 276
+  },
+  {
+    "namanTeam": "Kocaelispor",
+    "littleTeam": "Elche CF",
+    "timeStamp": "20 Mar, 2026 12:52",
+    "gameCount": 277
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "20 Mar, 2026 13:10",
+    "gameCount": 278
+  },
+  {
+    "namanTeam": "Al Qadsiah FC",
+    "littleTeam": "Napoli",
+    "timeStamp": "20 Mar, 2026 15:33",
+    "gameCount": 279
+  },
+  {
+    "namanTeam": "Kaizer Chiefs",
+    "littleTeam": "Mamelodi Sundowns",
+    "timeStamp": "20 Mar, 2026 15:53",
+    "gameCount": 280
+  },
+  {
+    "namanTeam": "Slavia Praha",
+    "littleTeam": "Fenerbahçe SK",
+    "timeStamp": "20 Mar, 2026 15:54",
+    "gameCount": 281
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "20 Mar, 2026 16:12",
+    "gameCount": 282
+  },
+  {
+    "namanTeam": "Central Coast Mariners FC",
+    "littleTeam": "NorthEast United FC",
+    "timeStamp": "20 Mar, 2026 16:27",
+    "gameCount": 283
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "20 Mar, 2026 17:12",
+    "gameCount": 284
+  },
+  {
+    "namanTeam": "Your Choice",
+    "littleTeam": "Borussia Dortmund",
+    "timeStamp": "20 Mar, 2026 17:52",
+    "gameCount": 285
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "20 Mar, 2026 18:34",
+    "gameCount": 286
+  },
+  {
+    "namanTeam": "FC Basel 1893",
+    "littleTeam": "AFC Unirea 04 Slobozia",
+    "timeStamp": "20 Mar, 2026 18:34",
+    "gameCount": 287
+  },
+  {
+    "namanTeam": "Alemannia Aachen",
+    "littleTeam": "Clermont Foot 63",
+    "timeStamp": "21 Mar, 2026 14:52",
+    "gameCount": 288
+  },
+  {
+    "namanTeam": "Dinamo Kiev",
+    "littleTeam": "Al-Kholood Club",
+    "timeStamp": "22 Mar, 2026 15:43",
+    "gameCount": 289
+  },
+  {
+    "namanTeam": "Estoril",
+    "littleTeam": "Aberdeen FC",
+    "timeStamp": "22 Mar, 2026 15:59",
+    "gameCount": 290
+  },
+  {
+    "namanTeam": "SC Freiburg II",
+    "littleTeam": "SK Sturm Graz",
+    "timeStamp": "22 Mar, 2026 16:18",
+    "gameCount": 291
+  },
+  {
+    "namanTeam": "Al-Najma SC",
+    "littleTeam": "St Johnstone FC",
+    "timeStamp": "22 Mar, 2026 16:19",
+    "gameCount": 292
+  },
+  {
+    "namanTeam": "FC Lausanne-Sport",
+    "littleTeam": "SD Huesca",
+    "timeStamp": "22 Mar, 2026 16:20",
+    "gameCount": 293
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "22 Mar, 2026 16:41",
+    "gameCount": 294
+  },
+  {
+    "namanTeam": "Drogheda United F.C.",
+    "littleTeam": "Western Sydney Wanderers FC",
+    "timeStamp": "22 Mar, 2026 17:04",
+    "gameCount": 295
+  },
+  {
+    "namanTeam": "IFK Göteborg",
+    "littleTeam": "Cercle Brugge",
+    "timeStamp": "22 Mar, 2026 17:05",
+    "gameCount": 296
+  },
+  {
+    "namanTeam": "Sampdoria",
+    "littleTeam": "Sandefjord Fotball",
+    "timeStamp": "04 Apr, 2026 17:53",
+    "gameCount": 297
+  },
+  {
+    "namanTeam": "Dynamo Dresden",
+    "littleTeam": "Samsunspor",
+    "timeStamp": "07 Jun, 2026 12:59",
+    "gameCount": 298
+  },
+  {
+    "namanTeam": "Sparta Praha",
+    "littleTeam": "Chicago Fire FC",
+    "timeStamp": "07 Jun, 2026 13:35",
+    "gameCount": 299
+  },
+  {
+    "namanTeam": "BK Häcken",
+    "littleTeam": "Viking FK",
+    "timeStamp": "07 Jun, 2026 13:57",
+    "gameCount": 300
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "07 Jun, 2026 14:18",
+    "gameCount": 301
+  },
+  {
+    "namanTeam": "Al-Shabab FC",
+    "littleTeam": "Lille",
+    "timeStamp": "07 Jun, 2026 14:55",
+    "gameCount": 302
+  },
+  {
+    "namanTeam": "Derry City F.C.",
+    "littleTeam": "SK Brann",
+    "timeStamp": "07 Jun, 2026 15:15",
+    "gameCount": 303
+  },
+  {
+    "namanTeam": "Gimcheon Sangmu FC",
+    "littleTeam": "Mjällby AIF",
+    "timeStamp": "07 Jun, 2026 15:56",
+    "gameCount": 304
+  },
+  {
+    "namanTeam": "Braunschweig",
+    "littleTeam": "ASC Oțelul Galați",
+    "timeStamp": "07 Jun, 2026 16:15",
+    "gameCount": 305
+  },
+  {
+    "namanTeam": "Çaykur Rizespor",
+    "littleTeam": "Estudiantes de La Plata",
+    "timeStamp": "07 Jun, 2026 16:35",
+    "gameCount": 306
+  },
+  {
+    "namanTeam": "Malmö FF",
+    "littleTeam": "Go Ahead Eagles",
+    "timeStamp": "07 Jun, 2026 16:55",
+    "gameCount": 307
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "07 Jun, 2026 18:17",
+    "gameCount": 308
+  },
+  {
+    "namanTeam": "Pohang Steelers",
+    "littleTeam": "Newcastle Jets FC",
+    "timeStamp": "07 Jun, 2026 18:36",
+    "gameCount": 309
+  },
+  {
+    "namanTeam": "Sweden",
+    "littleTeam": "NAC Breda",
+    "timeStamp": "07 Jun, 2026 18:53",
+    "gameCount": 310
+  },
+  {
+    "namanTeam": "Wisła Płock",
+    "littleTeam": "Rosenborg BK",
+    "timeStamp": "07 Jun, 2026 19:13",
+    "gameCount": 311
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "07 Jun, 2026 19:30",
+    "gameCount": 312
+  },
+  {
+    "namanTeam": "England",
+    "littleTeam": "Hansa Rostock",
+    "timeStamp": "14 Jun, 2026 14:25",
+    "gameCount": 313
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "14 Jun, 2026 14:44",
+    "gameCount": 314
+  },
+  {
+    "namanTeam": "Sint-Truiden",
+    "littleTeam": "Colorado Rapids",
+    "timeStamp": "14 Jun, 2026 15:08",
+    "gameCount": 315
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "14 Jun, 2026 15:27",
+    "gameCount": 316
+  },
+  {
+    "namanTeam": "Rodez AF",
+    "littleTeam": "Central Córdoba",
+    "timeStamp": "14 Jun, 2026 15:45",
+    "gameCount": 317
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "14 Jun, 2026 16:33",
+    "gameCount": 318
+  },
+  {
+    "namanTeam": "Bolton Wanderers",
+    "littleTeam": "Al-Shabab FC",
+    "timeStamp": "14 Jun, 2026 19:21",
+    "gameCount": 319
+  },
+  {
+    "namanTeam": "CFR 1907 Cluj",
+    "littleTeam": "Shanghai Port F.C.",
+    "timeStamp": "14 Jun, 2026 19:41",
+    "gameCount": 320
+  },
+  {
+    "namanTeam": "FC Seoul",
+    "littleTeam": "Atlanta United FC",
+    "timeStamp": "20 Jun, 2026 18:49",
+    "gameCount": 321
+  },
+  {
+    "namanTeam": "Godoy Cruz",
+    "littleTeam": "Wellington Phoenix FC",
+    "timeStamp": "20 Jun, 2026 19:14",
+    "gameCount": 322
+  },
+  {
+    "namanTeam": "FC Hermannstadt",
+    "littleTeam": "FC Basel 1893",
+    "timeStamp": "20 Jun, 2026 19:30",
+    "gameCount": 323
+  },
+  {
+    "namanTeam": "Sparta Rotterdam",
+    "littleTeam": "Shanghai Shenhua F.C.",
+    "timeStamp": "20 Jun, 2026 19:51",
+    "gameCount": 324
+  },
+  {
+    "namanTeam": "IFK Norrköping",
+    "littleTeam": "Leganés",
+    "timeStamp": "20 Jun, 2026 20:08",
+    "gameCount": 325
+  },
+  {
+    "namanTeam": "St Patrick's Athletic F.C.",
+    "littleTeam": "Lincoln City",
+    "timeStamp": "20 Jun, 2026 20:25",
+    "gameCount": 326
+  },
+  {
+    "namanTeam": "Eyüpspor",
+    "littleTeam": "Jeju United",
+    "timeStamp": "20 Jun, 2026 20:45",
+    "gameCount": 327
+  },
+  {
+    "namanTeam": "Legia Warszawa",
+    "littleTeam": "Heart of Midlothian FC",
+    "timeStamp": "20 Jun, 2026 21:03",
+    "gameCount": 328
+  },
+  {
+    "namanTeam": "FC Zürich",
+    "littleTeam": "St Mirren FC",
+    "timeStamp": "20 Jun, 2026 21:20",
+    "gameCount": 329
+  },
+  {
+    "namanTeam": "Your Choice",
+    "littleTeam": "FC Botoșani",
+    "timeStamp": "20 Jun, 2026 23:02",
+    "gameCount": 330
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "20 Jun, 2026 23:27",
+    "gameCount": 331
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "21 Jun, 2026 14:27",
+    "gameCount": 332
+  },
+  {
+    "namanTeam": "GKS Katowice",
+    "littleTeam": "Brisbane Roar FC",
+    "timeStamp": "21 Jun, 2026 14:46",
+    "gameCount": 333
+  },
+  {
+    "namanTeam": "Mamelodi Sundowns",
+    "littleTeam": "Swindon Town",
+    "timeStamp": "21 Jun, 2026 15:04",
+    "gameCount": 334
+  },
+  {
+    "namanTeam": "Strømsgodset Toppfotball",
+    "littleTeam": "Kristiansund BK",
+    "timeStamp": "21 Jun, 2026 15:06",
+    "gameCount": 335
+  },
+  {
+    "namanTeam": "IK Sirius Fotboll",
+    "littleTeam": "Slavia Praha",
+    "timeStamp": "21 Jun, 2026 15:23",
+    "gameCount": 336
+  },
+  {
+    "namanTeam": "Nantes",
+    "littleTeam": "Derry City F.C.",
+    "timeStamp": "21 Jun, 2026 15:42",
+    "gameCount": 337
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "21 Jun, 2026 16:01",
+    "gameCount": 338
+  },
+  {
+    "namanTeam": "Nice",
+    "littleTeam": "Cosenza",
+    "timeStamp": "27 Jun, 2026 22:57",
+    "gameCount": 339
+  },
+  {
+    "namanTeam": "Tottenham Hotspur",
+    "littleTeam": "Cittadella",
+    "timeStamp": "27 Jun, 2026 23:25",
+    "gameCount": 340
+  },
+  {
+    "namanTeam": "SK Sturm Graz",
+    "littleTeam": "Farense",
+    "timeStamp": "27 Jun, 2026 23:45",
+    "gameCount": 341
+  },
+  {
+    "namanTeam": "FC Red Bull Salzburg",
+    "littleTeam": "Atlético Nacional",
+    "timeStamp": "04 Jul, 2026 20:11",
+    "gameCount": 342
+  },
+  {
+    "namanTeam": "Sligo Rovers F.C.",
+    "littleTeam": "Wuhan Three Towns FC",
+    "timeStamp": "04 Jul, 2026 20:14",
+    "gameCount": 343
+  },
+  {
+    "namanTeam": "Wolfsberger AC",
+    "littleTeam": "Südtirol",
+    "timeStamp": "04 Jul, 2026 20:33",
+    "gameCount": 344
+  },
+  {
+    "namanTeam": "Piast Gliwice",
+    "littleTeam": "Jeonbuk Hyundai Motors",
+    "timeStamp": "05 Jul, 2026 00:10",
+    "gameCount": 345
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "05 Jul, 2026 13:16",
+    "gameCount": 346
+  },
+  {
+    "namanTeam": "FC Twente",
+    "littleTeam": "SD Amorebieta",
+    "timeStamp": "05 Jul, 2026 13:58",
+    "gameCount": 347
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "11 Jul, 2026 23:56",
+    "gameCount": 348
+  },
+  {
+    "namanTeam": "NAC Breda",
+    "littleTeam": "Lechia Gdańsk",
+    "timeStamp": "12 Jul, 2026 00:17",
+    "gameCount": 349
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "12 Jul, 2026 00:35",
+    "gameCount": 350
+  },
+  {
+    "namanTeam": "Antwerp",
+    "littleTeam": "Daejeon Hana Citizen",
+    "timeStamp": "12 Jul, 2026 00:54",
+    "gameCount": 351
+  },
+  {
+    "namanTeam": "Your Choice",
+    "littleTeam": "Gençlerbirliği S.K.",
+    "timeStamp": "12 Jul, 2026 13:21",
+    "gameCount": 352
+  },
+  {
+    "namanTeam": "New York City FC",
+    "littleTeam": "Hibernian FC",
+    "timeStamp": "12 Jul, 2026 13:22",
+    "gameCount": 353
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "12 Jul, 2026 14:02",
+    "gameCount": 354
+  },
+  {
+    "namanTeam": "Lyon",
+    "littleTeam": "SønderjyskE Fodbold",
+    "timeStamp": "12 Jul, 2026 14:19",
+    "gameCount": 355
+  },
+  {
+    "namanTeam": "FC Botoșani",
+    "littleTeam": "Lech Poznań",
+    "timeStamp": "12 Jul, 2026 14:21",
+    "gameCount": 356
+  },
+  {
+    "namanTeam": "Al Hilal SFC",
+    "littleTeam": "East Bengal FC",
+    "timeStamp": "12 Jul, 2026 14:39",
+    "gameCount": 357
+  },
+  {
+    "namanTeam": "Valencia CF",
+    "littleTeam": "Wycombe Wanderers",
+    "timeStamp": "12 Jul, 2026 14:59",
+    "gameCount": 358
+  },
+  {
+    "namanTeam": "Mechelen",
+    "littleTeam": "Adelaide United FC",
+    "timeStamp": "12 Jul, 2026 15:14",
+    "gameCount": 359
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "12 Jul, 2026 15:32",
+    "gameCount": 360
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "12 Jul, 2026 15:50",
+    "gameCount": 361
+  },
+  {
+    "namanTeam": "FC Annecy",
+    "littleTeam": "FC Rapid București",
+    "timeStamp": "12 Jul, 2026 16:09",
+    "gameCount": 362
+  },
+  {
+    "namanTeam": "Celta Vigo",
+    "littleTeam": "AC Milan",
+    "timeStamp": "12 Jul, 2026 16:27",
+    "gameCount": 363
+  },
+  {
+    "namanTeam": "Ghana",
+    "littleTeam": "Górnik Zabrze",
+    "timeStamp": "12 Jul, 2026 16:45",
+    "gameCount": 364
+  },
+  {
+    "namanTeam": "Changchun Yatai F.C.",
+    "littleTeam": "Stade de Reims",
+    "timeStamp": "12 Jul, 2026 17:05",
+    "gameCount": 365
+  },
+  {
+    "namanTeam": "Chabab Mohammedia",
+    "littleTeam": "Servette FC",
+    "timeStamp": "12 Jul, 2026 17:25",
+    "gameCount": 366
+  },
+  {
+    "namanTeam": "Galway United F.C.",
+    "littleTeam": "Reggina",
+    "timeStamp": "25 Jul, 2026 17:50",
+    "gameCount": 367
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "25 Jul, 2026 18:10",
+    "gameCount": 368
+  },
+  {
+    "namanTeam": "East Bengal FC",
+    "littleTeam": "Frosinone",
+    "timeStamp": "25 Jul, 2026 18:38",
+    "gameCount": 369
+  },
+  {
+    "namanTeam": "Hammarby Fotboll",
+    "littleTeam": "Alemannia Aachen",
+    "timeStamp": "25 Jul, 2026 18:58",
+    "gameCount": 370
+  },
+  {
+    "namanTeam": "Samsunspor",
+    "littleTeam": "Almería",
+    "timeStamp": "25 Jul, 2026 19:53",
+    "gameCount": 371
+  },
+  {
+    "namanTeam": "Ipswich Town",
+    "littleTeam": "Rangers FC",
+    "timeStamp": "25 Jul, 2026 20:30",
+    "gameCount": 372
+  },
+  {
+    "namanTeam": "Your Choice",
+    "littleTeam": "Mexico",
+    "timeStamp": "25 Jul, 2026 20:56",
+    "gameCount": 373
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "25 Jul, 2026 21:53",
+    "gameCount": 374
+  },
+  {
+    "namanTeam": "Cittadella",
+    "littleTeam": "FC Andorra",
+    "timeStamp": "25 Jul, 2026 23:32",
+    "gameCount": 375
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "25 Jul, 2026 23:51",
+    "gameCount": 376
+  },
+  {
+    "namanTeam": "Al Fateh SC",
+    "littleTeam": "Gwangju FC",
+    "timeStamp": "26 Jul, 2026 00:08",
+    "gameCount": 377
+  },
+  {
+    "namanTeam": "Al-Kholood Club",
+    "littleTeam": "Galway United F.C.",
+    "timeStamp": "26 Jul, 2026 00:25",
+    "gameCount": 378
+  },
+  {
+    "namanTeam": "Atlético Nacional",
+    "littleTeam": "Athletic Club",
+    "timeStamp": "26 Jul, 2026 10:25",
+    "gameCount": 379
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "26 Jul, 2026 11:33",
+    "gameCount": 380
+  },
+  {
+    "namanTeam": "San Lorenzo",
+    "littleTeam": "FC Universitatea Cluj",
+    "timeStamp": "26 Jul, 2026 11:48",
+    "gameCount": 381
+  },
+  {
+    "namanTeam": "Al-Ettifaq FC",
+    "littleTeam": "KS Cracovia",
+    "timeStamp": "26 Jul, 2026 12:07",
+    "gameCount": 382
+  },
+  {
+    "namanTeam": "Suwon FC",
+    "littleTeam": "Málaga CF",
+    "timeStamp": "26 Jul, 2026 15:31",
+    "gameCount": 383
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "26 Jul, 2026 15:48",
+    "gameCount": 384
+  },
+  {
+    "namanTeam": "Randers FC",
+    "littleTeam": "Al Qadsiah FC",
+    "timeStamp": "26 Jul, 2026 16:52",
+    "gameCount": 385
+  },
+  {
+    "namanTeam": "ASC Oțelul Galați",
+    "littleTeam": "Shamrock Rovers F.C.",
+    "timeStamp": "26 Jul, 2026 17:13",
+    "gameCount": 386
+  },
+  {
+    "namanTeam": "1. FC Heidenheim",
+    "littleTeam": "Talleres",
+    "timeStamp": "26 Jul, 2026 18:20",
+    "gameCount": 387
+  },
+  {
+    "namanTeam": "Panathinaikos",
+    "littleTeam": "St Patrick's Athletic F.C.",
+    "timeStamp": "26 Jul, 2026 19:51",
+    "gameCount": 388
+  },
+  {
+    "namanTeam": "KFUM-Kameratene Oslo",
+    "littleTeam": "FC Argeș Pitești",
+    "timeStamp": "26 Jul, 2026 23:48",
+    "gameCount": 389
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "27 Jul, 2026 13:56",
+    "gameCount": 390
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "27 Jul, 2026 14:22",
+    "gameCount": 391
+  },
+  {
+    "namanTeam": "Argentina",
+    "littleTeam": "Jamshedpur FC",
+    "timeStamp": "27 Jul, 2026 14:46",
+    "gameCount": 392
+  },
+  {
+    "namanTeam": "IFK Värnamo",
+    "littleTeam": "Real Oviedo",
+    "timeStamp": "27 Jul, 2026 15:06",
+    "gameCount": 393
+  },
+  {
+    "namanTeam": "Sporting CP",
+    "littleTeam": "D.C. United",
+    "timeStamp": "02 Aug, 2026 00:09",
+    "gameCount": 394
+  },
+  {
+    "namanTeam": "Dundee United FC",
+    "littleTeam": "CD Tenerife",
+    "timeStamp": "02 Aug, 2026 13:08",
+    "gameCount": 395
+  },
+  {
+    "namanTeam": "Celtic FC",
+    "littleTeam": "Al-Najma SC",
+    "timeStamp": "02 Aug, 2026 13:28",
+    "gameCount": 396
+  },
+  {
+    "namanTeam": "Austin FC",
+    "littleTeam": "Casa Pia",
+    "timeStamp": "02 Aug, 2026 13:38",
+    "gameCount": 397
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "02 Aug, 2026 14:00",
+    "gameCount": 398
+  },
+  {
+    "namanTeam": "Pogoń Szczecin",
+    "littleTeam": "Montpellier Hérault SC",
+    "timeStamp": "02 Aug, 2026 14:17",
+    "gameCount": 399
+  },
+  {
+    "namanTeam": "Your Choice",
+    "littleTeam": "Willem II",
+    "timeStamp": "02 Aug, 2026 14:56",
+    "gameCount": 400
+  },
+  {
+    "namanTeam": "SC Heerenveen",
+    "littleTeam": "Bristol Rovers",
+    "timeStamp": "08 Aug, 2026 17:19",
+    "gameCount": 401
+  },
+  {
+    "namanTeam": "Real Madrid",
+    "littleTeam": "FC Barca",
+    "timeStamp": "08 Aug, 2026 17:46",
+    "gameCount": 402
+  },
+  {
+    "namanTeam": "Shandong Taishan F.C.",
+    "littleTeam": "İstanbul Başakşehir F.K.",
+    "timeStamp": "08 Aug, 2026 20:03",
+    "gameCount": 403
+  },
+  {
+    "namanTeam": "Cercle Brugge",
+    "littleTeam": "Legia Warszawa",
+    "timeStamp": "15 Aug, 2026 15:53",
+    "gameCount": 404
+  },
+  {
+    "namanTeam": "Vélez Sarsfield",
+    "littleTeam": "Macarthur FC",
+    "timeStamp": "15 Aug, 2026 16:32",
+    "gameCount": 405
+  },
+  {
+    "namanTeam": "Al Nassr",
+    "littleTeam": "Inter Miami",
+    "timeStamp": "15 Aug, 2026 16:51",
+    "gameCount": 406
+  }
+]
